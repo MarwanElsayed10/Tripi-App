@@ -1,4 +1,444 @@
 {
+  "tourData":[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?auto=format&fit=crop&w=1200&q=80",
+    "title": "Historic Wonders of Stonehenge & Oxford Tour",
+    "location": "Wiltshire, England",
+    "time": "12+ hours",
+    "type": "Cultural & Historical Tours",
+    "rating": 4.9,
+    "reviews": "1,245",
+    "price": "65"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+    "title": "Sunset Desert Safari with BBQ Dinner",
+    "location": "Dubai, UAE",
+    "time": "6 hours",
+    "type": "Adventure Tours",
+    "rating": 4.8,
+    "reviews": "3,540",
+    "price": "55"
+  },
+  {
+    "id": 3",
+    "image": "https://images.unsplash.com/photo-1533577116850-9cc66cad8a9b?auto=format&fit=crop&w=1200&q=80",
+    "title": "Romantic Gondola Ride on Grand Canal",
+    "location": "Venice, Italy",
+    "time": "45 minutes",
+    "type": "Romantic Tours",
+    "rating": 4.7,
+    "reviews": "2,310",
+    "price": "80"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?auto=format&fit=crop&w=1200&q=80",
+    "title": "Eiffel Tower Summit Access + Seine River Cruise",
+    "location": "Paris, France",
+    "time": "4 hours",
+    "type": "City Sightseeing",
+    "rating": 4.8,
+    "reviews": "5,204",
+    "price": "95"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?auto=format&fit=crop&w=1200&q=80",
+    "title": "Great Wall Hiking & Cable Car Experience",
+    "location": "Beijing, China",
+    "time": "8 hours",
+    "type": "Hiking Tours",
+    "rating": 4.9,
+    "reviews": "4,551",
+    "price": "120"
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "title": "Old Town Walking Tour with Food Tasting",
+    "location": "Barcelona, Spain",
+    "time": "3 hours",
+    "type": "Food & Walking Tours",
+    "rating": 4.6,
+    "reviews": "2,789",
+    "price": "40"
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1526481280695-3c720685208b?auto=format&fit=crop&w=1200&q=80",
+    "title": "Northern Lights Arctic Viewing Experience",
+    "location": "Tromsø, Norway",
+    "time": "6 hours",
+    "type": "Nature & Sky Tours",
+    "rating": 4.9,
+    "reviews": "1,998",
+    "price": "150"
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "title": "New York City Full-Day Landmarks Tour",
+    "location": "New York, USA",
+    "time": "9 hours",
+    "type": "City Tours",
+    "rating": 4.7,
+    "reviews": "7,320",
+    "price": "130"
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1543352634-093a3509f5c4?auto=format&fit=crop&w=1200&q=80",
+    "title": "Safari Adventure at Kruger National Park",
+    "location": "South Africa",
+    "time": "10 hours",
+    "type": "Wildlife Safari",
+    "rating": 4.9,
+    "reviews": "3,714",
+    "price": "170"
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1595920326176-027a03f8cccf?auto=format&fit=crop&w=1200&q=80",
+    "title": "Mount Fuji Day Trip + Lake Kawaguchi",
+    "location": "Tokyo, Japan",
+    "time": "12 hours",
+    "type": "Nature Tours",
+    "rating": 4.8,
+    "reviews": "5,432",
+    "price": "98"
+  },
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1551732607-7263244a36a5?auto=format&fit=crop&w=1200&q=80",
+    "title": "Snorkeling with Turtles in Blue Lagoon",
+    "location": "Bali, Indonesia",
+    "time": "5 hours",
+    "type": "Water Activities",
+    "rating": 4.9,
+    "reviews": "4,125",
+    "price": "45"
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1603546133137-5dc50b0c035b?auto=format&fit=crop&w=1200&q=80",
+    "title": "Luxor Pyramids, Sphinx & Nile Cruise",
+    "location": "Giza, Egypt",
+    "time": "10 hours",
+    "type": "Historical Tours",
+    "rating": 4.8,
+    "reviews": "8,214",
+    "price": "60"
+  },
+  {
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&q=80",
+    "title": "Full-Day Safari at Serengeti Park",
+    "location": "Tanzania",
+    "time": "14 hours",
+    "type": "Wildlife Tours",
+    "rating": 4.9,
+    "reviews": "2,902",
+    "price": "210"
+  },
+  {
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1543248939-ff40856f65c3?auto=format&fit=crop&w=1200&q=80",
+    "title": "Santorini Sunset Boat Tour",
+    "location": "Santorini, Greece",
+    "time": "4 hours",
+    "type": "Cruise Tours",
+    "rating": 4.7,
+    "reviews": "3,176",
+    "price": "70"
+  },
+  {
+    "id": 15,
+    "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1200&q=80",
+    "title": "Historic Castles of Scotland Guided Tour",
+    "location": "Edinburgh, Scotland",
+    "time": "9 hours",
+    "type": "Cultural Tours",
+    "rating": 4.8,
+    "reviews": "2,801",
+    "price": "85"
+  },
+  {
+    "id": 16,
+    "image": "https://images.unsplash.com/photo-1587731541223-4320a8b3f182?auto=format&fit=crop&w=1200&q=80",
+    "title": "Hot Air Balloon Ride over Cappadocia",
+    "location": "Cappadocia, Turkey",
+    "time": "3 hours",
+    "type": "Adventure Tours",
+    "rating": 4.9,
+    "reviews": "6,102",
+    "price": "150"
+  },
+  {
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1544986581-efac024faf62?auto=format&fit=crop&w=1200&q=80",
+    "title": "Skydeck + Architecture River Cruise",
+    "location": "Chicago, USA",
+    "time": "2 hours",
+    "type": "City Experiences",
+    "rating": 4.6,
+    "reviews": "2,009",
+    "price": "50"
+  },
+  {
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1524594161823-1e303d0176a3?auto=format&fit=crop&w=1200&q=80",
+    "title": "Safari Jeep Tour in Dubai Desert",
+    "location": "Dubai, UAE",
+    "time": "4 hours",
+    "type": "Adventure Tours",
+    "rating": 4.8,
+    "reviews": "4,890",
+    "price": "65"
+  },
+  {
+    "id": 19,
+    "image": "https://images.unsplash.com/photo-1519817650390-64a93db511aa?auto=format&fit=crop&w=1200&q=80",
+    "title": "Rio Christ the Redeemer Guided Visit",
+    "location": "Rio de Janeiro, Brazil",
+    "time": "3 hours",
+    "type": "Culture & Landmarks",
+    "rating": 4.7,
+    "reviews": "3,440",
+    "price": "70"
+  },
+  {
+    "id": 20,
+    "image": "https://images.unsplash.com/photo-1524492449094-1a7a913e06b3?auto=format&fit=crop&w=1200&q=80",
+    "title": "Sydney Blue Mountains Day Adventure",
+    "location": "Sydney, Australia",
+    "time": "11 hours",
+    "type": "Nature Tours",
+    "rating": 4.8,
+    "reviews": "2,884",
+    "price": "115"
+  }
+],
+  "hotels":[
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=1200&q=80",
+      "name": "The Grand London Resort & Spa",
+      "location": "Westminster, London",
+      "rating": 4.6,
+      "reviews": "2,345",
+      "price": "72"
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+      "name": "Royal Palace Hotel",
+      "location": "Paris, France",
+      "rating": 4.8,
+      "reviews": "3,902",
+      "price": "95"
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1501117716987-c8e1ecb2101b?auto=format&fit=crop&w=1200&q=80",
+      "name": "Marina Bay Executive Suites",
+      "location": "Singapore City, Singapore",
+      "rating": 4.7,
+      "reviews": "4,120",
+      "price": "120"
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80",
+      "name": "New York Empire Hotel",
+      "location": "Manhattan, New York",
+      "rating": 4.4,
+      "reviews": "5,034",
+      "price": "110"
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1568495248636-6432b97bd949?auto=format&fit=crop&w=1200&q=80",
+      "name": "Tokyo Skyline Luxury Stay",
+      "location": "Shinjuku, Tokyo",
+      "rating": 4.9,
+      "reviews": "6,221",
+      "price": "150"
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "name": "Dubai Palm Beach Resort",
+      "location": "Palm Jumeirah, Dubai",
+      "rating": 4.8,
+      "reviews": "7,032",
+      "price": "180"
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+      "name": "Swiss Alps Mountain Retreat",
+      "location": "Zermatt, Switzerland",
+      "rating": 4.9,
+      "reviews": "1,982",
+      "price": "210"
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80",
+      "name": "Rome Imperial Hotel",
+      "location": "Centro Storico, Rome",
+      "rating": 4.5,
+      "reviews": "2,410",
+      "price": "88"
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80",
+      "name": "Sydney Harbour View Suites",
+      "location": "Circular Quay, Sydney",
+      "rating": 4.7,
+      "reviews": "3,298",
+      "price": "140"
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1620694563380-5a95d3d2acc6?auto=format&fit=crop&w=1200&q=80",
+      "name": "Los Angeles Sunset Hotel",
+      "location": "Hollywood, Los Angeles",
+      "rating": 4.3,
+      "reviews": "2,020",
+      "price": "95"
+    },
+    {
+      "id": 11,
+      "image": "https://images.unsplash.com/photo-1551776235-dde6d482980a?auto=format&fit=crop&w=1200&q=80",
+      "name": "Barcelona Coastline Resort",
+      "location": "Barceloneta, Barcelona",
+      "rating": 4.6,
+      "reviews": "3,556",
+      "price": "105"
+    },
+    {
+      "id": 12,
+      "image": "https://images.unsplash.com/photo-1519121782843-73ffdf0b77c9?auto=format&fit=crop&w=1200&q=80",
+      "name": "Toronto Skyline Grand Hotel",
+      "location": "Downtown, Toronto",
+      "rating": 4.4,
+      "reviews": "1,688",
+      "price": "115"
+    },
+    {
+      "id": 13,
+      "image": "https://images.unsplash.com/photo-1628771065518-0d82f57a0df5?auto=format&fit=crop&w=1200&q=80",
+      "name": "Cape Town Oceanfront Resort",
+      "location": "Sea Point, Cape Town",
+      "rating": 4.7,
+      "reviews": "1,920",
+      "price": "130"
+    },
+    {
+      "id": 14,
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+      "name": "Bali Tropical Paradise Hotel",
+      "location": "Ubud, Bali",
+      "rating": 4.9,
+      "reviews": "4,320",
+      "price": "160"
+    },
+    {
+      "id": 15,
+      "image": "https://images.unsplash.com/photo-1559599188-f77f8393fceb?auto=format&fit=crop&w=1200&q=80",
+      "name": "Istanbul Bosphorus Hotel",
+      "location": "Beşiktaş, Istanbul",
+      "rating": 4.5,
+      "reviews": "2,580",
+      "price": "82"
+    },
+    {
+      "id": 16,
+      "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1200&q=80",
+      "name": "Berlin City Luxury Suites",
+      "location": "Mitte, Berlin",
+      "rating": 4.4,
+      "reviews": "1,350",
+      "price": "90"
+    },
+    {
+      "id": 17,
+      "image": "https://images.unsplash.com/photo-1542317854-7d98faad6a8a?auto=format&fit=crop&w=1200&q=80",
+      "name": "Vienna Imperial Grand Hotel",
+      "location": "Innere Stadt, Vienna",
+      "rating": 4.8,
+      "reviews": "2,904",
+      "price": "125"
+    },
+    {
+      "id": 18,
+      "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?auto=format&fit=crop&w=1200&q=80",
+      "name": "Amsterdam Riverside Hotel",
+      "location": "Canal District, Amsterdam",
+      "rating": 4.6,
+      "reviews": "2,700",
+      "price": "110"
+    },
+    {
+      "id": 19,
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80",
+      "name": "San Francisco Bay View Hotel",
+      "location": "Fisherman's Wharf, San Francisco",
+      "rating": 4.3,
+      "reviews": "1,780",
+      "price": "135"
+    },
+    {
+      "id": 20,
+      "image": "https://images.unsplash.com/photo-1566075271203-7083f93a007a?auto=format&fit=crop&w=1200&q=80",
+      "name": "Maldives Overwater Retreat",
+      "location": "North Male Atoll, Maldives",
+      "rating": 4.9,
+      "reviews": "5,430",
+      "price": "220"
+    },
+    {
+    "id": 21,
+    "image":"https://images.unsplash.com/photo-1702593690392-31edf0331f54?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "name": "The Grand London Resort and Spa",
+    "location": "Westminster, London",
+    "rating": 4.6,
+    "reviews": "2,345",
+    "price": "72",
+    },
+    {
+      "id": 22,
+      "image":"https://images.unsplash.com/photo-1702593690392-31edf0331f54?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Barcelona City Suites Deluxe Hotel",
+      "location": "Ciutat Vella, Barcelona",
+      "rating": 4.7,
+      "reviews": "1,912",
+      "price": "85",
+    },
+    {
+      "id": 23,
+      "image": "https://images.unsplash.com/photo-1559599188-f77f8393fceb?auto=format&fit=crop&w=1200&q=80",
+      "name": "Times Square Premium Stay Hotel",
+      "location": "Manhattan, New York",
+      "rating": 4.9,
+      "reviews": "3,420",
+      "price": "95",
+    },
+    {
+      "id": 24,
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80",
+      "name": "Hilton Roma Luxury Hotel Palace",
+      "location": "Vaticano Prati, Rome",
+      "rating": 4.5,
+      "reviews": "2,876",
+      "price": "68",
+    },
+  ],
   "places": [
     {
       "id": 1,

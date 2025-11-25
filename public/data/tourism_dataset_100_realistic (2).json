@@ -1,0 +1,6231 @@
+{
+  "tourData":[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?auto=format&fit=crop&w=1200&q=80",
+    "title": "Historic Wonders of Stonehenge & Oxford Tour",
+    "location": "Wiltshire, England",
+    "time": "12+ hours",
+    "type": "Cultural & Historical Tours",
+    "rating": 4.9,
+    "reviews": "1,245",
+    "price": "65"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+    "title": "Sunset Desert Safari with BBQ Dinner",
+    "location": "Dubai, UAE",
+    "time": "6 hours",
+    "type": "Adventure Tours",
+    "rating": 4.8,
+    "reviews": "3,540",
+    "price": "55"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1533577116850-9cc66cad8a9b?auto=format&fit=crop&w=1200&q=80",
+    "title": "Romantic Gondola Ride on Grand Canal",
+    "location": "Venice, Italy",
+    "time": "45 minutes",
+    "type": "Romantic Tours",
+    "rating": 4.7,
+    "reviews": "2,310",
+    "price": "80"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?auto=format&fit=crop&w=1200&q=80",
+    "title": "Eiffel Tower Summit Access + Seine River Cruise",
+    "location": "Paris, France",
+    "time": "4 hours",
+    "type": "City Sightseeing",
+    "rating": 4.8,
+    "reviews": "5,204",
+    "price": "95"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?auto=format&fit=crop&w=1200&q=80",
+    "title": "Great Wall Hiking & Cable Car Experience",
+    "location": "Beijing, China",
+    "time": "8 hours",
+    "type": "Hiking Tours",
+    "rating": 4.9,
+    "reviews": "4,551",
+    "price": "120"
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "title": "Old Town Walking Tour with Food Tasting",
+    "location": "Barcelona, Spain",
+    "time": "3 hours",
+    "type": "Food & Walking Tours",
+    "rating": 4.6,
+    "reviews": "2,789",
+    "price": "40"
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1526481280695-3c720685208b?auto=format&fit=crop&w=1200&q=80",
+    "title": "Northern Lights Arctic Viewing Experience",
+    "location": "Tromsø, Norway",
+    "time": "6 hours",
+    "type": "Nature & Sky Tours",
+    "rating": 4.9,
+    "reviews": "1,998",
+    "price": "150"
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "title": "New York City Full-Day Landmarks Tour",
+    "location": "New York, USA",
+    "time": "9 hours",
+    "type": "City Tours",
+    "rating": 4.7,
+    "reviews": "7,320",
+    "price": "130"
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1543352634-093a3509f5c4?auto=format&fit=crop&w=1200&q=80",
+    "title": "Safari Adventure at Kruger National Park",
+    "location": "South Africa",
+    "time": "10 hours",
+    "type": "Wildlife Safari",
+    "rating": 4.9,
+    "reviews": "3,714",
+    "price": "170"
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1595920326176-027a03f8cccf?auto=format&fit=crop&w=1200&q=80",
+    "title": "Mount Fuji Day Trip + Lake Kawaguchi",
+    "location": "Tokyo, Japan",
+    "time": "12 hours",
+    "type": "Nature Tours",
+    "rating": 4.8,
+    "reviews": "5,432",
+    "price": "98"
+  },
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1551732607-7263244a36a5?auto=format&fit=crop&w=1200&q=80",
+    "title": "Snorkeling with Turtles in Blue Lagoon",
+    "location": "Bali, Indonesia",
+    "time": "5 hours",
+    "type": "Water Activities",
+    "rating": 4.9,
+    "reviews": "4,125",
+    "price": "45"
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1603546133137-5dc50b0c035b?auto=format&fit=crop&w=1200&q=80",
+    "title": "Luxor Pyramids, Sphinx & Nile Cruise",
+    "location": "Giza, Egypt",
+    "time": "10 hours",
+    "type": "Historical Tours",
+    "rating": 4.8,
+    "reviews": "8,214",
+    "price": "60"
+  },
+  {
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&q=80",
+    "title": "Full-Day Safari at Serengeti Park",
+    "location": "Tanzania",
+    "time": "14 hours",
+    "type": "Wildlife Tours",
+    "rating": 4.9,
+    "reviews": "2,902",
+    "price": "210"
+  },
+  {
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1543248939-ff40856f65c3?auto=format&fit=crop&w=1200&q=80",
+    "title": "Santorini Sunset Boat Tour",
+    "location": "Santorini, Greece",
+    "time": "4 hours",
+    "type": "Cruise Tours",
+    "rating": 4.7,
+    "reviews": "3,176",
+    "price": "70"
+  },
+  {
+    "id": 15,
+    "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1200&q=80",
+    "title": "Historic Castles of Scotland Guided Tour",
+    "location": "Edinburgh, Scotland",
+    "time": "9 hours",
+    "type": "Cultural Tours",
+    "rating": 4.8,
+    "reviews": "2,801",
+    "price": "85"
+  },
+  {
+    "id": 16,
+    "image": "https://images.unsplash.com/photo-1587731541223-4320a8b3f182?auto=format&fit=crop&w=1200&q=80",
+    "title": "Hot Air Balloon Ride over Cappadocia",
+    "location": "Cappadocia, Turkey",
+    "time": "3 hours",
+    "type": "Adventure Tours",
+    "rating": 4.9,
+    "reviews": "6,102",
+    "price": "150"
+  },
+  {
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1544986581-efac024faf62?auto=format&fit=crop&w=1200&q=80",
+    "title": "Skydeck + Architecture River Cruise",
+    "location": "Chicago, USA",
+    "time": "2 hours",
+    "type": "City Experiences",
+    "rating": 4.6,
+    "reviews": "2,009",
+    "price": "50"
+  },
+  {
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1524594161823-1e303d0176a3?auto=format&fit=crop&w=1200&q=80",
+    "title": "Safari Jeep Tour in Dubai Desert",
+    "location": "Dubai, UAE",
+    "time": "4 hours",
+    "type": "Adventure Tours",
+    "rating": 4.8,
+    "reviews": "4,890",
+    "price": "65"
+  },
+  {
+    "id": 19,
+    "image": "https://images.unsplash.com/photo-1519817650390-64a93db511aa?auto=format&fit=crop&w=1200&q=80",
+    "title": "Rio Christ the Redeemer Guided Visit",
+    "location": "Rio de Janeiro, Brazil",
+    "time": "3 hours",
+    "type": "Culture & Landmarks",
+    "rating": 4.7,
+    "reviews": "3,440",
+    "price": "70"
+  },
+  {
+    "id": 20,
+    "image": "https://images.unsplash.com/photo-1524492449094-1a7a913e06b3?auto=format&fit=crop&w=1200&q=80",
+    "title": "Sydney Blue Mountains Day Adventure",
+    "location": "Sydney, Australia",
+    "time": "11 hours",
+    "type": "Nature Tours",
+    "rating": 4.8,
+    "reviews": "2,884",
+    "price": "115"
+  }
+],
+  "hotels":[
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=1200&q=80",
+      "name": "The Grand London Resort & Spa",
+      "location": "Westminster, London",
+      "rating": 4.6,
+      "reviews": "2,345",
+      "price": "72"
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+      "name": "Royal Palace Hotel",
+      "location": "Paris, France",
+      "rating": 4.8,
+      "reviews": "3,902",
+      "price": "95"
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1501117716987-c8e1ecb2101b?auto=format&fit=crop&w=1200&q=80",
+      "name": "Marina Bay Executive Suites",
+      "location": "Singapore City, Singapore",
+      "rating": 4.7,
+      "reviews": "4,120",
+      "price": "120"
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80",
+      "name": "New York Empire Hotel",
+      "location": "Manhattan, New York",
+      "rating": 4.4,
+      "reviews": "5,034",
+      "price": "110"
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1568495248636-6432b97bd949?auto=format&fit=crop&w=1200&q=80",
+      "name": "Tokyo Skyline Luxury Stay",
+      "location": "Shinjuku, Tokyo",
+      "rating": 4.9,
+      "reviews": "6,221",
+      "price": "150"
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "name": "Dubai Palm Beach Resort",
+      "location": "Palm Jumeirah, Dubai",
+      "rating": 4.8,
+      "reviews": "7,032",
+      "price": "180"
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+      "name": "Swiss Alps Mountain Retreat",
+      "location": "Zermatt, Switzerland",
+      "rating": 4.9,
+      "reviews": "1,982",
+      "price": "210"
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80",
+      "name": "Rome Imperial Hotel",
+      "location": "Centro Storico, Rome",
+      "rating": 4.5,
+      "reviews": "2,410",
+      "price": "88"
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80",
+      "name": "Sydney Harbour View Suites",
+      "location": "Circular Quay, Sydney",
+      "rating": 4.7,
+      "reviews": "3,298",
+      "price": "140"
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1620694563380-5a95d3d2acc6?auto=format&fit=crop&w=1200&q=80",
+      "name": "Los Angeles Sunset Hotel",
+      "location": "Hollywood, Los Angeles",
+      "rating": 4.3,
+      "reviews": "2,020",
+      "price": "95"
+    },
+    {
+      "id": 11,
+      "image": "https://images.unsplash.com/photo-1551776235-dde6d482980a?auto=format&fit=crop&w=1200&q=80",
+      "name": "Barcelona Coastline Resort",
+      "location": "Barceloneta, Barcelona",
+      "rating": 4.6,
+      "reviews": "3,556",
+      "price": "105"
+    },
+    {
+      "id": 12,
+      "image": "https://images.unsplash.com/photo-1519121782843-73ffdf0b77c9?auto=format&fit=crop&w=1200&q=80",
+      "name": "Toronto Skyline Grand Hotel",
+      "location": "Downtown, Toronto",
+      "rating": 4.4,
+      "reviews": "1,688",
+      "price": "115"
+    },
+    {
+      "id": 13,
+      "image": "https://images.unsplash.com/photo-1628771065518-0d82f57a0df5?auto=format&fit=crop&w=1200&q=80",
+      "name": "Cape Town Oceanfront Resort",
+      "location": "Sea Point, Cape Town",
+      "rating": 4.7,
+      "reviews": "1,920",
+      "price": "130"
+    },
+    {
+      "id": 14,
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+      "name": "Bali Tropical Paradise Hotel",
+      "location": "Ubud, Bali",
+      "rating": 4.9,
+      "reviews": "4,320",
+      "price": "160"
+    },
+    {
+      "id": 15,
+      "image": "https://images.unsplash.com/photo-1559599188-f77f8393fceb?auto=format&fit=crop&w=1200&q=80",
+      "name": "Istanbul Bosphorus Hotel",
+      "location": "Beşiktaş, Istanbul",
+      "rating": 4.5,
+      "reviews": "2,580",
+      "price": "82"
+    },
+    {
+      "id": 16,
+      "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1200&q=80",
+      "name": "Berlin City Luxury Suites",
+      "location": "Mitte, Berlin",
+      "rating": 4.4,
+      "reviews": "1,350",
+      "price": "90"
+    },
+    {
+      "id": 17,
+      "image": "https://images.unsplash.com/photo-1542317854-7d98faad6a8a?auto=format&fit=crop&w=1200&q=80",
+      "name": "Vienna Imperial Grand Hotel",
+      "location": "Innere Stadt, Vienna",
+      "rating": 4.8,
+      "reviews": "2,904",
+      "price": "125"
+    },
+    {
+      "id": 18,
+      "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?auto=format&fit=crop&w=1200&q=80",
+      "name": "Amsterdam Riverside Hotel",
+      "location": "Canal District, Amsterdam",
+      "rating": 4.6,
+      "reviews": "2,700",
+      "price": "110"
+    },
+    {
+      "id": 19,
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80",
+      "name": "San Francisco Bay View Hotel",
+      "location": "Fisherman's Wharf, San Francisco",
+      "rating": 4.3,
+      "reviews": "1,780",
+      "price": "135"
+    },
+    {
+      "id": 20,
+      "image": "https://images.unsplash.com/photo-1566075271203-7083f93a007a?auto=format&fit=crop&w=1200&q=80",
+      "name": "Maldives Overwater Retreat",
+      "location": "North Male Atoll, Maldives",
+      "rating": 4.9,
+      "reviews": "5,430",
+      "price": "220"
+    },
+    {
+    "id": 21,
+    "image":"https://images.unsplash.com/photo-1702593690392-31edf0331f54?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "The Grand London Resort and Spa",
+    "location": "Westminster, London",
+    "rating": 4.6,
+    "reviews": "2,345",
+    "price": "72"
+    },
+    {
+      "id": 22,
+      "image":"https://images.unsplash.com/photo-1702593690392-31edf0331f54?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Barcelona City Suites Deluxe Hotel",
+      "location": "Ciutat Vella, Barcelona",
+      "rating": 4.7,
+      "reviews": "1,912",
+      "price": "85"
+    },
+    {
+      "id": 23,
+      "image": "https://images.unsplash.com/photo-1559599188-f77f8393fceb?auto=format&fit=crop&w=1200&q=80",
+      "name": "Times Square Premium Stay Hotel",
+      "location": "Manhattan, New York",
+      "rating": 4.9,
+      "reviews": "3,420",
+      "price": "95"
+    },
+    {
+      "id": 24,
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80",
+      "name": "Hilton Roma Luxury Hotel Palace",
+      "location": "Vaticano Prati, Rome",
+      "rating": 4.5,
+      "reviews": "2,876",
+      "price": "68"
+    }
+  ],
+  "places": [
+    {
+      "id": 1,
+      "name": "Eiffel Tower",
+      "country": "France",
+      "continent": "Europe",
+      "city": "Paris",
+      "annual_visitors": 7000000,
+      "image_url": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZWlmZmVsJTIwdG93ZXJ8ZW58MHx8MHx8fDA%3D",
+      "description": "Eiffel Tower is a famous attraction located in Paris, France. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        23,
+        33,
+        41,
+        59,
+        12
+      ],
+      "reviews": [
+        {
+          "rating": 3.9,
+          "review": "Not what I expected but still good.",
+          "user": "Fatima",
+          "date": "2023-06-11"
+        },
+        {
+          "rating": 4.9,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Mohamed",
+          "date": "2024-12-01"
+        },
+        {
+          "rating": 3.6,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Fatima",
+          "date": "2023-12-03"
+        },
+        {
+          "rating": 4.7,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Alex",
+          "date": "2023-09-23"
+        },
+        {
+          "rating": 4.8,
+          "review": "Amazing place, highly recommended!",
+          "user": "Maya",
+          "date": "2024-03-19"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1621,
+        "min_price_usd": 939,
+        "max_price_usd": 3919
+      },
+      "extra_info": {
+        "best_time_to_visit": "November–March",
+        "recommended_visit_duration_hours": 4,
+        "height_meters": 330,
+        "established": 1889
+      },
+      "rating": 4.38,
+      "review_count": 5
+    },
+    {
+      "id": 2,
+      "name": "Louvre Museum",
+      "country": "France",
+      "continent": "Europe",
+      "city": "Paris",
+      "annual_visitors": 9000000,
+      "image_url": "https://images.unsplash.com/photo-1567942585146-33d62b775db0?q=80&w=1009&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Louvre Museum is a famous attraction located in Paris, France. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        47,
+        48,
+        24
+      ],
+      "reviews": [
+        {
+          "rating": 4.1,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Fatima",
+          "date": "2023-06-06"
+        },
+        {
+          "rating": 4.9,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Li",
+          "date": "2025-08-28"
+        },
+        {
+          "rating": 4.4,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Carlos",
+          "date": "2025-01-07"
+        },
+        {
+          "rating": 3.8,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Alex",
+          "date": "2023-08-27"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1787,
+        "min_price_usd": 928,
+        "max_price_usd": 3458
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–October",
+        "famous_for": "Mona Lisa, art collections"
+      },
+      "rating": 4.3,
+      "review_count": 4
+    },
+    {
+      "id": 3,
+      "name": "Colosseum",
+      "country": "Italy",
+      "continent": "Europe",
+      "city": "Rome",
+      "annual_visitors": 1043079,
+      "image_url": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q29sb3NzZXVtfGVufDB8fDB8fHww",
+      "description": "Colosseum is a famous attraction located in Rome, Italy. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        28,
+        49,
+        24,
+        10,
+        17,
+        31
+      ],
+      "reviews": [
+        {
+          "rating": 4.3,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Carlos",
+          "date": "2023-12-29"
+        },
+        {
+          "rating": 4.8,
+          "review": "Amazing place, highly recommended!",
+          "user": "Carlos",
+          "date": "2023-09-30"
+        },
+        {
+          "rating": 4.5,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Li",
+          "date": "2024-07-05"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1344,
+        "min_price_usd": 890,
+        "max_price_usd": 2214
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–June"
+      },
+      "rating": 4.53,
+      "review_count": 3
+    },
+    {
+      "id": 4,
+      "name": "Vatican Museums",
+      "country": "Vatican City",
+      "continent": "Europe",
+      "city": "Vatican City",
+      "annual_visitors": 6237654,
+      "image_url": "https://images.unsplash.com/photo-1604130498110-3536a727cae7?q=80&w=1031&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Vatican Museums is a famous attraction located in Vatican City, Vatican City. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        26,
+        41,
+        49,
+        17,
+        45
+      ],
+      "reviews": [
+        {
+          "rating": 5.0,
+          "review": "One of the top places I've visited.",
+          "user": "Anna",
+          "date": "2024-12-13"
+        },
+        {
+          "rating": 4.0,
+          "review": "One of the top places I've visited.",
+          "user": "Anna",
+          "date": "2025-08-22"
+        },
+        {
+          "rating": 5.0,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Li",
+          "date": "2023-12-18"
+        },
+        {
+          "rating": 3.8,
+          "review": "Crowded but unforgettable experience.",
+          "user": "John",
+          "date": "2025-03-07"
+        },
+        {
+          "rating": 4.2,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Tom",
+          "date": "2023-08-08"
+        },
+        {
+          "rating": 4.8,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Li",
+          "date": "2025-11-01"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1415,
+        "min_price_usd": 741,
+        "max_price_usd": 3416
+      },
+      "extra_info": {},
+      "rating": 4.47,
+      "review_count": 6
+    },
+    {
+      "id": 5,
+      "name": "Sagrada Família",
+      "country": "Spain",
+      "continent": "Europe",
+      "city": "Barcelona",
+      "annual_visitors": 9793479,
+      "image_url": "https://images.unsplash.com/photo-1650964827770-421afa7960ac?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Sagrada Família is a famous attraction located in Barcelona, Spain. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        31,
+        9,
+        19,
+        1
+      ],
+      "reviews": [
+        {
+          "rating": 4.3,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Li",
+          "date": "2024-09-23"
+        },
+        {
+          "rating": 5.0,
+          "review": "One of the top places I've visited.",
+          "user": "Li",
+          "date": "2023-07-12"
+        },
+        {
+          "rating": 4.5,
+          "review": "One of the top places I've visited.",
+          "user": "Alex",
+          "date": "2023-12-02"
+        },
+        {
+          "rating": 3.6,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Li",
+          "date": "2025-04-26"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1501,
+        "min_price_usd": 839,
+        "max_price_usd": 2909
+      },
+      "extra_info": {
+        "best_time_to_visit": "September–October"
+      },
+      "rating": 4.35,
+      "review_count": 4
+    },
+    {
+      "id": 6,
+      "name": "Big Ben",
+      "country": "United Kingdom",
+      "continent": "Europe",
+      "city": "London",
+      "annual_visitors": 1061029,
+      "image_url": "https://images.unsplash.com/photo-1454793147212-9e7e57e89a4f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmlnJTIwQmVufGVufDB8fDB8fHww",
+      "description": "Big Ben is a famous attraction located in London, United Kingdom. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        4,
+        33,
+        38,
+        20
+      ],
+      "reviews": [
+        {
+          "rating": 3.7,
+          "review": "One of the top places I've visited.",
+          "user": "Alex",
+          "date": "2024-12-05"
+        },
+        {
+          "rating": 4.0,
+          "review": "Great for photography and sightseeing.",
+          "user": "Li",
+          "date": "2025-04-07"
+        },
+        {
+          "rating": 4.5,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Maya",
+          "date": "2024-01-31"
+        },
+        {
+          "rating": 4.4,
+          "review": "Not what I expected but still good.",
+          "user": "Carlos",
+          "date": "2025-11-01"
+        },
+        {
+          "rating": 4.0,
+          "review": "One of the top places I've visited.",
+          "user": "Fatima",
+          "date": "2024-03-31"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1463,
+        "min_price_usd": 827,
+        "max_price_usd": 2655
+      },
+      "extra_info": {
+        "best_time_to_visit": "November–March"
+      },
+      "rating": 4.12,
+      "review_count": 5
+    },
+    {
+      "id": 7,
+      "name": "Stonehenge",
+      "country": "United Kingdom",
+      "continent": "Europe",
+      "city": "Salisbury",
+      "annual_visitors": 1798168,
+      "image_url": "https://images.unsplash.com/photo-1542223092-f995144811d2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFN0b25laGVuZ2V8ZW58MHx8MHx8fDA%3D",
+      "description": "Stonehenge is a famous attraction located in Salisbury, United Kingdom. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        29,
+        19,
+        6,
+        54
+      ],
+      "reviews": [
+        {
+          "rating": 4.2,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Li",
+          "date": "2025-01-05"
+        },
+        {
+          "rating": 3.5,
+          "review": "Amazing place, highly recommended!",
+          "user": "Fatima",
+          "date": "2025-02-08"
+        },
+        {
+          "rating": 3.5,
+          "review": "Amazing place, highly recommended!",
+          "user": "Fatima",
+          "date": "2023-09-10"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1357,
+        "min_price_usd": 778,
+        "max_price_usd": 2334
+      },
+      "extra_info": {
+        "best_time_to_visit": "September–October"
+      },
+      "rating": 3.73,
+      "review_count": 3
+    },
+    {
+      "id": 8,
+      "name": "Acropolis",
+      "country": "Greece",
+      "continent": "Europe",
+      "city": "Athens",
+      "annual_visitors": 6015871,
+      "image_url": "https://images.unsplash.com/photo-1555368062-a9b335f1e997?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8QWNyb3BvbGlzfGVufDB8fDB8fHww",
+      "description": "Acropolis is a famous attraction located in Athens, Greece. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        57,
+        53,
+        50
+      ],
+      "reviews": [
+        {
+          "rating": 3.6,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Anna",
+          "date": "2024-05-26"
+        },
+        {
+          "rating": 3.8,
+          "review": "Amazing place, highly recommended!",
+          "user": "Alex",
+          "date": "2024-08-15"
+        },
+        {
+          "rating": 4.3,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Anna",
+          "date": "2024-02-06"
+        },
+        {
+          "rating": 4.6,
+          "review": "Great for photography and sightseeing.",
+          "user": "Sara",
+          "date": "2025-09-20"
+        },
+        {
+          "rating": 4.3,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Tom",
+          "date": "2024-09-11"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1553,
+        "min_price_usd": 761,
+        "max_price_usd": 2777
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–October"
+      },
+      "rating": 4.12,
+      "review_count": 5
+    },
+    {
+      "id": 9,
+      "name": "Neuschwanstein Castle",
+      "country": "Germany",
+      "continent": "Europe",
+      "city": "Schwangau",
+      "annual_visitors": 854712,
+      "image_url": "https://images.unsplash.com/photo-1556621595-6dd9502e265e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TmV1c2Nod2Fuc3RlaW4lMjBDYXN0bGV8ZW58MHx8MHx8fDA%3D",
+      "description": "Neuschwanstein Castle is a famous attraction located in Schwangau, Germany. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        34,
+        28,
+        6,
+        37,
+        33,
+        46
+      ],
+      "reviews": [
+        {
+          "rating": 3.7,
+          "review": "One of the top places I've visited.",
+          "user": "Carlos",
+          "date": "2025-09-26"
+        },
+        {
+          "rating": 4.0,
+          "review": "Not what I expected but still good.",
+          "user": "Maya",
+          "date": "2024-01-23"
+        },
+        {
+          "rating": 4.7,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Anna",
+          "date": "2024-09-02"
+        },
+        {
+          "rating": 4.9,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Maya",
+          "date": "2025-11-06"
+        },
+        {
+          "rating": 4.9,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Alex",
+          "date": "2024-03-15"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1670,
+        "min_price_usd": 1109,
+        "max_price_usd": 3259
+      },
+      "extra_info": {
+        "best_time_to_visit": "Year-round"
+      },
+      "rating": 4.44,
+      "review_count": 5
+    },
+    {
+      "id": 10,
+      "name": "Brandenburg Gate",
+      "country": "Germany",
+      "continent": "Europe",
+      "city": "Berlin",
+      "annual_visitors": 780098,
+      "image_url": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QnJhbmRlbmJ1cmclMjBHYXRlfGVufDB8fDB8fHww",
+      "description": "Brandenburg Gate is a famous attraction located in Berlin, Germany. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        38,
+        26,
+        46
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Tom",
+          "date": "2024-09-11"
+        },
+        {
+          "rating": 4.2,
+          "review": "One of the top places I've visited.",
+          "user": "Mohamed",
+          "date": "2024-05-31"
+        },
+        {
+          "rating": 3.8,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Tom",
+          "date": "2025-02-28"
+        },
+        {
+          "rating": 4.5,
+          "review": "Amazing place, highly recommended!",
+          "user": "Mohamed",
+          "date": "2023-06-15"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1533,
+        "min_price_usd": 928,
+        "max_price_usd": 3414
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–October",
+        "recommended_visit_duration_hours": 1
+      },
+      "rating": 4.25,
+      "review_count": 4
+    },
+    {
+      "id": 11,
+      "name": "Times Square",
+      "country": "United States",
+      "continent": "North America",
+      "city": "New York",
+      "annual_visitors": 50000000,
+      "image_url": "https://images.unsplash.com/photo-1538970272646-f61fabb3a8a2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8VGltZXMlMjBTcXVhcmV8ZW58MHx8MHx8fDA%3D",
+      "description": "Times Square is a famous attraction located in New York, United States. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        34,
+        7,
+        56,
+        60
+      ],
+      "reviews": [
+        {
+          "rating": 3.8,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Maya",
+          "date": "2025-10-27"
+        },
+        {
+          "rating": 4.2,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Carlos",
+          "date": "2024-01-21"
+        },
+        {
+          "rating": 4.7,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Maya",
+          "date": "2023-11-12"
+        },
+        {
+          "rating": 4.1,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Li",
+          "date": "2024-04-11"
+        },
+        {
+          "rating": 4.0,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "John",
+          "date": "2023-06-27"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1275,
+        "min_price_usd": 659,
+        "max_price_usd": 1937
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 2,
+        "famous_for": "Billboards and Broadway theatre district"
+      },
+      "rating": 4.16,
+      "review_count": 5
+    },
+    {
+      "id": 12,
+      "name": "Statue of Liberty",
+      "country": "United States",
+      "continent": "North America",
+      "city": "New York",
+      "annual_visitors": 17807640,
+      "image_url": "https://images.unsplash.com/photo-1588384153148-ebd739ac430c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3RhdHVlJTIwb2YlMjBMaWJlcnR5fGVufDB8fDB8fHww",
+      "description": "Statue of Liberty is a famous attraction located in New York, United States. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        35,
+        15,
+        54
+      ],
+      "reviews": [
+        {
+          "rating": 4.8,
+          "review": "Amazing place, highly recommended!",
+          "user": "Mohamed",
+          "date": "2023-10-27"
+        },
+        {
+          "rating": 4.4,
+          "review": "Great for photography and sightseeing.",
+          "user": "Li",
+          "date": "2025-10-02"
+        },
+        {
+          "rating": 4.0,
+          "review": "Not what I expected but still good.",
+          "user": "Tom",
+          "date": "2024-06-14"
+        },
+        {
+          "rating": 4.8,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Carlos",
+          "date": "2024-05-31"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1442,
+        "min_price_usd": 899,
+        "max_price_usd": 3244
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–June",
+        "recommended_visit_duration_hours": 8
+      },
+      "rating": 4.5,
+      "review_count": 4
+    },
+    {
+      "id": 13,
+      "name": "Grand Canyon",
+      "country": "United States",
+      "continent": "North America",
+      "city": "Arizona",
+      "annual_visitors": 10348076,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Grand Canyon is a famous attraction located in Arizona, United States. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        45,
+        23,
+        44,
+        55
+      ],
+      "reviews": [
+        {
+          "rating": 4.4,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "John",
+          "date": "2023-11-15"
+        },
+        {
+          "rating": 3.9,
+          "review": "Great for photography and sightseeing.",
+          "user": "Carlos",
+          "date": "2025-11-02"
+        },
+        {
+          "rating": 4.2,
+          "review": "Amazing place, highly recommended!",
+          "user": "Sara",
+          "date": "2023-09-18"
+        },
+        {
+          "rating": 4.4,
+          "review": "Great for photography and sightseeing.",
+          "user": "Li",
+          "date": "2024-02-10"
+        },
+        {
+          "rating": 3.8,
+          "review": "Great for photography and sightseeing.",
+          "user": "Anna",
+          "date": "2024-06-12"
+        },
+        {
+          "rating": 4.3,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Sara",
+          "date": "2025-05-16"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1606,
+        "min_price_usd": 898,
+        "max_price_usd": 2821
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 2
+      },
+      "rating": 4.17,
+      "review_count": 6
+    },
+    {
+      "id": 14,
+      "name": "Yellowstone National Park",
+      "country": "United States",
+      "continent": "North America",
+      "city": "Wyoming",
+      "annual_visitors": 4177508,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Yellowstone National Park is a famous attraction located in Wyoming, United States. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        28,
+        2,
+        20
+      ],
+      "reviews": [
+        {
+          "rating": 4.7,
+          "review": "One of the top places I've visited.",
+          "user": "Li",
+          "date": "2024-04-25"
+        },
+        {
+          "rating": 4.4,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Sara",
+          "date": "2023-11-30"
+        },
+        {
+          "rating": 4.9,
+          "review": "Not what I expected but still good.",
+          "user": "Fatima",
+          "date": "2024-05-05"
+        },
+        {
+          "rating": 4.8,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Sara",
+          "date": "2023-08-03"
+        },
+        {
+          "rating": 4.7,
+          "review": "One of the top places I've visited.",
+          "user": "Carlos",
+          "date": "2025-04-27"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1278,
+        "min_price_usd": 808,
+        "max_price_usd": 2759
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–June",
+        "recommended_visit_duration_hours": 4
+      },
+      "rating": 4.7,
+      "review_count": 5
+    },
+    {
+      "id": 15,
+      "name": "Niagara Falls",
+      "country": "Canada",
+      "continent": "North America",
+      "city": "Niagara Falls",
+      "annual_visitors": 20764493,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Niagara Falls is a famous attraction located in Niagara Falls, Canada. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        46,
+        28,
+        45,
+        33,
+        50
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "review": "One of the top places I've visited.",
+          "user": "Tom",
+          "date": "2024-06-21"
+        },
+        {
+          "rating": 4.9,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Fatima",
+          "date": "2025-02-20"
+        },
+        {
+          "rating": 4.3,
+          "review": "Great for photography and sightseeing.",
+          "user": "Sara",
+          "date": "2025-07-28"
+        },
+        {
+          "rating": 4.2,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Sara",
+          "date": "2025-05-27"
+        },
+        {
+          "rating": 3.8,
+          "review": "Amazing place, highly recommended!",
+          "user": "Maya",
+          "date": "2025-01-14"
+        },
+        {
+          "rating": 4.2,
+          "review": "Crowded but unforgettable experience.",
+          "user": "John",
+          "date": "2025-07-16"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1495,
+        "min_price_usd": 876,
+        "max_price_usd": 3251
+      },
+      "extra_info": {
+        "best_time_to_visit": "September–October",
+        "recommended_visit_duration_hours": 3
+      },
+      "rating": 4.32,
+      "review_count": 6
+    },
+    {
+      "id": 16,
+      "name": "Banff National Park",
+      "country": "Canada",
+      "continent": "North America",
+      "city": "Banff",
+      "annual_visitors": 15401904,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Banff National Park is a famous attraction located in Banff, Canada. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        46,
+        47,
+        29,
+        28,
+        22
+      ],
+      "reviews": [
+        {
+          "rating": 5.0,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Alex",
+          "date": "2023-07-13"
+        },
+        {
+          "rating": 4.2,
+          "review": "One of the top places I've visited.",
+          "user": "John",
+          "date": "2023-10-06"
+        },
+        {
+          "rating": 5.0,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Tom",
+          "date": "2025-03-18"
+        },
+        {
+          "rating": 3.7,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Alex",
+          "date": "2025-02-21"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1482,
+        "min_price_usd": 686,
+        "max_price_usd": 2446
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 8
+      },
+      "rating": 4.47,
+      "review_count": 4
+    },
+    {
+      "id": 17,
+      "name": "Chichen Itza",
+      "country": "Mexico",
+      "continent": "North America",
+      "city": "Yucatán",
+      "annual_visitors": 10208456,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Chichen Itza is a famous attraction located in Yucatán, Mexico. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        1,
+        45,
+        57,
+        53,
+        42,
+        16
+      ],
+      "reviews": [
+        {
+          "rating": 4.3,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Mohamed",
+          "date": "2024-05-17"
+        },
+        {
+          "rating": 4.3,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Tom",
+          "date": "2023-07-31"
+        },
+        {
+          "rating": 4.1,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Tom",
+          "date": "2023-06-04"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1735,
+        "min_price_usd": 1152,
+        "max_price_usd": 3408
+      },
+      "extra_info": {},
+      "rating": 4.23,
+      "review_count": 3
+    },
+    {
+      "id": 18,
+      "name": "Tulum",
+      "country": "Mexico",
+      "continent": "North America",
+      "city": "Tulum",
+      "annual_visitors": 5241415,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Tulum is a famous attraction located in Tulum, Mexico. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        35,
+        39,
+        36,
+        13,
+        55,
+        10
+      ],
+      "reviews": [
+        {
+          "rating": 4.7,
+          "review": "Great for photography and sightseeing.",
+          "user": "Carlos",
+          "date": "2024-06-12"
+        },
+        {
+          "rating": 4.9,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Mohamed",
+          "date": "2025-06-25"
+        },
+        {
+          "rating": 5.0,
+          "review": "Great for photography and sightseeing.",
+          "user": "Fatima",
+          "date": "2024-07-14"
+        },
+        {
+          "rating": 3.7,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Fatima",
+          "date": "2023-11-30"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1300,
+        "min_price_usd": 630,
+        "max_price_usd": 2340
+      },
+      "extra_info": {
+        "best_time_to_visit": "May–September"
+      },
+      "rating": 4.58,
+      "review_count": 4
+    },
+    {
+      "id": 19,
+      "name": "Machu Picchu",
+      "country": "Peru",
+      "continent": "South America",
+      "city": "Cusco",
+      "annual_visitors": 1500000,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Machu Picchu is a famous attraction located in Cusco, Peru. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        50,
+        14,
+        34,
+        2
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Carlos",
+          "date": "2023-12-09"
+        },
+        {
+          "rating": 4.2,
+          "review": "One of the top places I've visited.",
+          "user": "Li",
+          "date": "2024-06-04"
+        },
+        {
+          "rating": 4.0,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Carlos",
+          "date": "2024-02-04"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1237,
+        "min_price_usd": 839,
+        "max_price_usd": 2442
+      },
+      "extra_info": {
+        "best_time_to_visit": "September–October",
+        "recommended_visit_duration_hours": 1,
+        "altitude_meters": 2430
+      },
+      "rating": 4.23,
+      "review_count": 3
+    },
+    {
+      "id": 20,
+      "name": "Christ the Redeemer",
+      "country": "Brazil",
+      "continent": "South America",
+      "city": "Rio de Janeiro",
+      "annual_visitors": 2000000,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Christ the Redeemer is a famous attraction located in Rio de Janeiro, Brazil. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        4,
+        12,
+        36,
+        48
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "review": "One of the top places I've visited.",
+          "user": "Sara",
+          "date": "2025-08-20"
+        },
+        {
+          "rating": 3.8,
+          "review": "Amazing place, highly recommended!",
+          "user": "John",
+          "date": "2023-06-23"
+        },
+        {
+          "rating": 3.9,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Tom",
+          "date": "2024-11-29"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1097,
+        "min_price_usd": 455,
+        "max_price_usd": 1909
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 6,
+        "height_meters": 30
+      },
+      "rating": 4.2,
+      "review_count": 3
+    },
+    {
+      "id": 21,
+      "name": "Iguazu Falls",
+      "country": "Argentina/Brazil",
+      "continent": "South America",
+      "city": "Iguazu",
+      "annual_visitors": 2122866,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Iguazu Falls is a famous attraction located in Iguazu, Argentina/Brazil. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        24,
+        30,
+        32
+      ],
+      "reviews": [
+        {
+          "rating": 3.7,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Tom",
+          "date": "2025-06-04"
+        },
+        {
+          "rating": 3.6,
+          "review": "One of the top places I've visited.",
+          "user": "Mohamed",
+          "date": "2025-06-11"
+        },
+        {
+          "rating": 4.2,
+          "review": "Not what I expected but still good.",
+          "user": "Alex",
+          "date": "2023-09-23"
+        },
+        {
+          "rating": 4.3,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Mohamed",
+          "date": "2025-10-31"
+        },
+        {
+          "rating": 5.0,
+          "review": "Not what I expected but still good.",
+          "user": "Fatima",
+          "date": "2024-10-20"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1158,
+        "min_price_usd": 557,
+        "max_price_usd": 1775
+      },
+      "extra_info": {
+        "best_time_to_visit": "May–September"
+      },
+      "rating": 4.16,
+      "review_count": 5
+    },
+    {
+      "id": 22,
+      "name": "Galápagos Islands",
+      "country": "Ecuador",
+      "continent": "South America",
+      "city": "Galápagos",
+      "annual_visitors": 6882667,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Galápagos Islands is a famous attraction located in Galápagos, Ecuador. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        42,
+        41,
+        39,
+        51
+      ],
+      "reviews": [
+        {
+          "rating": 3.6,
+          "review": "One of the top places I've visited.",
+          "user": "Sara",
+          "date": "2025-08-09"
+        },
+        {
+          "rating": 3.9,
+          "review": "One of the top places I've visited.",
+          "user": "Carlos",
+          "date": "2024-07-30"
+        },
+        {
+          "rating": 4.7,
+          "review": "One of the top places I've visited.",
+          "user": "Li",
+          "date": "2025-09-30"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1340,
+        "min_price_usd": 778,
+        "max_price_usd": 2295
+      },
+      "extra_info": {},
+      "rating": 4.07,
+      "review_count": 3
+    },
+    {
+      "id": 23,
+      "name": "Torres del Paine",
+      "country": "Chile",
+      "continent": "South America",
+      "city": "Patagonia",
+      "annual_visitors": 4832872,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Torres del Paine is a famous attraction located in Patagonia, Chile. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        36,
+        29,
+        4,
+        22
+      ],
+      "reviews": [
+        {
+          "rating": 3.9,
+          "review": "Great for photography and sightseeing.",
+          "user": "Maya",
+          "date": "2023-10-04"
+        },
+        {
+          "rating": 4.5,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Maya",
+          "date": "2024-07-09"
+        },
+        {
+          "rating": 3.7,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Alex",
+          "date": "2024-08-25"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1310,
+        "min_price_usd": 915,
+        "max_price_usd": 2393
+      },
+      "extra_info": {
+        "best_time_to_visit": "Year-round",
+        "recommended_visit_duration_hours": 1
+      },
+      "rating": 4.03,
+      "review_count": 3
+    },
+    {
+      "id": 24,
+      "name": "Great Wall of China",
+      "country": "China",
+      "continent": "Asia",
+      "city": "Beijing",
+      "annual_visitors": 10000000,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Great Wall of China is a famous attraction located in Beijing, China. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        55,
+        12,
+        34,
+        44,
+        37,
+        22
+      ],
+      "reviews": [
+        {
+          "rating": 3.9,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Fatima",
+          "date": "2023-11-07"
+        },
+        {
+          "rating": 4.2,
+          "review": "Amazing place, highly recommended!",
+          "user": "John",
+          "date": "2024-03-29"
+        },
+        {
+          "rating": 3.6,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Carlos",
+          "date": "2025-01-13"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 854,
+        "min_price_usd": 395,
+        "max_price_usd": 1774
+      },
+      "extra_info": {
+        "best_time_to_visit": "September–October",
+        "length_km": 21196
+      },
+      "rating": 3.9,
+      "review_count": 3
+    },
+    {
+      "id": 25,
+      "name": "Forbidden City",
+      "country": "China",
+      "continent": "Asia",
+      "city": "Beijing",
+      "annual_visitors": 7335202,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Forbidden City is a famous attraction located in Beijing, China. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        45,
+        16,
+        22,
+        36,
+        43
+      ],
+      "reviews": [
+        {
+          "rating": 4.1,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Maya",
+          "date": "2025-01-22"
+        },
+        {
+          "rating": 4.9,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Tom",
+          "date": "2024-04-04"
+        },
+        {
+          "rating": 3.8,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Li",
+          "date": "2025-07-01"
+        },
+        {
+          "rating": 3.8,
+          "review": "One of the top places I've visited.",
+          "user": "Li",
+          "date": "2025-02-01"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 964,
+        "min_price_usd": 587,
+        "max_price_usd": 1916
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–October"
+      },
+      "rating": 4.15,
+      "review_count": 4
+    },
+    {
+      "id": 26,
+      "name": "Terracotta Army",
+      "country": "China",
+      "continent": "Asia",
+      "city": "Xi'an",
+      "annual_visitors": 12467579,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Terracotta Army is a famous attraction located in Xi'an, China. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        12,
+        6,
+        38,
+        21
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Alex",
+          "date": "2023-07-28"
+        },
+        {
+          "rating": 3.8,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Sara",
+          "date": "2023-09-19"
+        },
+        {
+          "rating": 4.7,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Tom",
+          "date": "2025-01-10"
+        },
+        {
+          "rating": 3.9,
+          "review": "Amazing place, highly recommended!",
+          "user": "Anna",
+          "date": "2023-07-29"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 941,
+        "min_price_usd": 422,
+        "max_price_usd": 1733
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 2
+      },
+      "rating": 4.22,
+      "review_count": 4
+    },
+    {
+      "id": 27,
+      "name": "Taj Mahal",
+      "country": "India",
+      "continent": "Asia",
+      "city": "Agra",
+      "annual_visitors": 4600882,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Taj Mahal is a famous attraction located in Agra, India. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        54,
+        22,
+        34,
+        18
+      ],
+      "reviews": [
+        {
+          "rating": 3.9,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Tom",
+          "date": "2023-07-16"
+        },
+        {
+          "rating": 4.6,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Anna",
+          "date": "2025-08-27"
+        },
+        {
+          "rating": 3.7,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Maya",
+          "date": "2024-05-11"
+        },
+        {
+          "rating": 4.1,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Alex",
+          "date": "2025-10-06"
+        },
+        {
+          "rating": 4.8,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Mohamed",
+          "date": "2024-08-20"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1087,
+        "min_price_usd": 687,
+        "max_price_usd": 2036
+      },
+      "extra_info": {
+        "best_time_to_visit": "November–March"
+      },
+      "rating": 4.22,
+      "review_count": 5
+    },
+    {
+      "id": 28,
+      "name": "Jaipur (Amber Fort)",
+      "country": "India",
+      "continent": "Asia",
+      "city": "Jaipur",
+      "annual_visitors": 9864975,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Jaipur (Amber Fort) is a famous attraction located in Jaipur, India. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        21,
+        56,
+        39
+      ],
+      "reviews": [
+        {
+          "rating": 3.5,
+          "review": "Great for photography and sightseeing.",
+          "user": "Tom",
+          "date": "2023-10-28"
+        },
+        {
+          "rating": 4.4,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Maya",
+          "date": "2024-06-03"
+        },
+        {
+          "rating": 4.8,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Sara",
+          "date": "2024-08-25"
+        },
+        {
+          "rating": 4.9,
+          "review": "Amazing place, highly recommended!",
+          "user": "Sara",
+          "date": "2025-04-26"
+        },
+        {
+          "rating": 4.6,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "John",
+          "date": "2023-10-04"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 976,
+        "min_price_usd": 659,
+        "max_price_usd": 1918
+      },
+      "extra_info": {
+        "best_time_to_visit": "Year-round"
+      },
+      "rating": 4.44,
+      "review_count": 5
+    },
+    {
+      "id": 29,
+      "name": "Kerala Backwaters",
+      "country": "India",
+      "continent": "Asia",
+      "city": "Kerala",
+      "annual_visitors": 5734240,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Kerala Backwaters is a famous attraction located in Kerala, India. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        4,
+        14,
+        31
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "review": "Not what I expected but still good.",
+          "user": "Sara",
+          "date": "2023-06-05"
+        },
+        {
+          "rating": 4.9,
+          "review": "Amazing place, highly recommended!",
+          "user": "Fatima",
+          "date": "2023-09-30"
+        },
+        {
+          "rating": 4.2,
+          "review": "Great for photography and sightseeing.",
+          "user": "Tom",
+          "date": "2023-12-31"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1086,
+        "min_price_usd": 549,
+        "max_price_usd": 2490
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 3
+      },
+      "rating": 4.67,
+      "review_count": 3
+    },
+    {
+      "id": 30,
+      "name": "Angkor Wat",
+      "country": "Cambodia",
+      "continent": "Asia",
+      "city": "Siem Reap",
+      "annual_visitors": 8265030,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Angkor Wat is a famous attraction located in Siem Reap, Cambodia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        37,
+        47,
+        46
+      ],
+      "reviews": [
+        {
+          "rating": 3.7,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Carlos",
+          "date": "2025-07-19"
+        },
+        {
+          "rating": 4.1,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Sara",
+          "date": "2023-08-31"
+        },
+        {
+          "rating": 4.4,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Sara",
+          "date": "2024-08-04"
+        },
+        {
+          "rating": 4.8,
+          "review": "Not what I expected but still good.",
+          "user": "Maya",
+          "date": "2023-06-13"
+        },
+        {
+          "rating": 3.6,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Mohamed",
+          "date": "2023-12-03"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 897,
+        "min_price_usd": 510,
+        "max_price_usd": 2152
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–June",
+        "recommended_visit_duration_hours": 6
+      },
+      "rating": 4.12,
+      "review_count": 5
+    },
+    {
+      "id": 31,
+      "name": "Borobudur",
+      "country": "Indonesia",
+      "continent": "Asia",
+      "city": "Magelang",
+      "annual_visitors": 1179807,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Borobudur is a famous attraction located in Magelang, Indonesia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        10,
+        35,
+        12,
+        47,
+        18
+      ],
+      "reviews": [
+        {
+          "rating": 4.4,
+          "review": "Great for photography and sightseeing.",
+          "user": "Fatima",
+          "date": "2025-07-21"
+        },
+        {
+          "rating": 4.0,
+          "review": "Great for photography and sightseeing.",
+          "user": "Maya",
+          "date": "2023-12-31"
+        },
+        {
+          "rating": 3.7,
+          "review": "Not what I expected but still good.",
+          "user": "Li",
+          "date": "2023-06-25"
+        },
+        {
+          "rating": 3.9,
+          "review": "Great for photography and sightseeing.",
+          "user": "Anna",
+          "date": "2024-02-27"
+        },
+        {
+          "rating": 3.7,
+          "review": "Not what I expected but still good.",
+          "user": "Mohamed",
+          "date": "2024-09-01"
+        },
+        {
+          "rating": 4.5,
+          "review": "Great for photography and sightseeing.",
+          "user": "Mohamed",
+          "date": "2024-06-30"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1200,
+        "min_price_usd": 610,
+        "max_price_usd": 2880
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 4
+      },
+      "rating": 4.03,
+      "review_count": 6
+    },
+    {
+      "id": 32,
+      "name": "Bali (Uluwatu)",
+      "country": "Indonesia",
+      "continent": "Asia",
+      "city": "Bali",
+      "annual_visitors": 703280,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Bali (Uluwatu) is a famous attraction located in Bali, Indonesia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        45,
+        43,
+        4,
+        5,
+        11,
+        30
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "review": "Great for photography and sightseeing.",
+          "user": "Tom",
+          "date": "2024-01-29"
+        },
+        {
+          "rating": 3.8,
+          "review": "Amazing place, highly recommended!",
+          "user": "Carlos",
+          "date": "2025-04-19"
+        },
+        {
+          "rating": 4.1,
+          "review": "One of the top places I've visited.",
+          "user": "Carlos",
+          "date": "2023-12-08"
+        },
+        {
+          "rating": 5.0,
+          "review": "Not what I expected but still good.",
+          "user": "Tom",
+          "date": "2025-06-04"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1008,
+        "min_price_usd": 472,
+        "max_price_usd": 2368
+      },
+      "extra_info": {
+        "best_time_to_visit": "November–March"
+      },
+      "rating": 4.35,
+      "review_count": 4
+    },
+    {
+      "id": 33,
+      "name": "Tokyo Skytree",
+      "country": "Japan",
+      "continent": "Asia",
+      "city": "Tokyo",
+      "annual_visitors": 8407945,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Tokyo Skytree is a famous attraction located in Tokyo, Japan. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        29,
+        7,
+        38,
+        40
+      ],
+      "reviews": [
+        {
+          "rating": 3.9,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Mohamed",
+          "date": "2024-11-07"
+        },
+        {
+          "rating": 4.6,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Li",
+          "date": "2025-09-30"
+        },
+        {
+          "rating": 4.3,
+          "review": "Amazing place, highly recommended!",
+          "user": "John",
+          "date": "2024-01-26"
+        },
+        {
+          "rating": 3.8,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Carlos",
+          "date": "2023-06-24"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 930,
+        "min_price_usd": 520,
+        "max_price_usd": 1693
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 3
+      },
+      "rating": 4.15,
+      "review_count": 4
+    },
+    {
+      "id": 34,
+      "name": "Fushimi Inari",
+      "country": "Japan",
+      "continent": "Asia",
+      "city": "Kyoto",
+      "annual_visitors": 5731085,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Fushimi Inari is a famous attraction located in Kyoto, Japan. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        52,
+        32,
+        58,
+        43,
+        50
+      ],
+      "reviews": [
+        {
+          "rating": 4.3,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Mohamed",
+          "date": "2024-12-15"
+        },
+        {
+          "rating": 3.6,
+          "review": "Amazing place, highly recommended!",
+          "user": "Anna",
+          "date": "2024-11-04"
+        },
+        {
+          "rating": 4.7,
+          "review": "Amazing place, highly recommended!",
+          "user": "Fatima",
+          "date": "2023-09-26"
+        },
+        {
+          "rating": 4.0,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Li",
+          "date": "2024-02-26"
+        },
+        {
+          "rating": 3.9,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Sara",
+          "date": "2023-10-21"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1184,
+        "min_price_usd": 776,
+        "max_price_usd": 2103
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 2
+      },
+      "rating": 4.1,
+      "review_count": 5
+    },
+    {
+      "id": 35,
+      "name": "Mount Fuji",
+      "country": "Japan",
+      "continent": "Asia",
+      "city": "Honshu",
+      "annual_visitors": 14191629,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Mount Fuji is a famous attraction located in Honshu, Japan. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        8,
+        1,
+        39,
+        16
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Li",
+          "date": "2024-01-16"
+        },
+        {
+          "rating": 3.9,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Alex",
+          "date": "2025-10-26"
+        },
+        {
+          "rating": 4.0,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Tom",
+          "date": "2025-01-13"
+        },
+        {
+          "rating": 4.6,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Sara",
+          "date": "2025-02-03"
+        },
+        {
+          "rating": 4.0,
+          "review": "Amazing place, highly recommended!",
+          "user": "Carlos",
+          "date": "2024-06-29"
+        },
+        {
+          "rating": 4.9,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Carlos",
+          "date": "2024-07-02"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 927,
+        "min_price_usd": 581,
+        "max_price_usd": 2266
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–June",
+        "recommended_visit_duration_hours": 2
+      },
+      "rating": 4.38,
+      "review_count": 6
+    },
+    {
+      "id": 36,
+      "name": "Ha Long Bay",
+      "country": "Vietnam",
+      "continent": "Asia",
+      "city": "Quảng Ninh",
+      "annual_visitors": 14967458,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Ha Long Bay is a famous attraction located in Quảng Ninh, Vietnam. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        52,
+        5,
+        51,
+        7
+      ],
+      "reviews": [
+        {
+          "rating": 4.0,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Carlos",
+          "date": "2024-03-28"
+        },
+        {
+          "rating": 3.5,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Anna",
+          "date": "2023-06-21"
+        },
+        {
+          "rating": 4.8,
+          "review": "Amazing place, highly recommended!",
+          "user": "Alex",
+          "date": "2024-02-12"
+        },
+        {
+          "rating": 4.7,
+          "review": "Not what I expected but still good.",
+          "user": "Alex",
+          "date": "2024-04-09"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 965,
+        "min_price_usd": 468,
+        "max_price_usd": 1655
+      },
+      "extra_info": {
+        "best_time_to_visit": "Year-round"
+      },
+      "rating": 4.25,
+      "review_count": 4
+    },
+    {
+      "id": 37,
+      "name": "Petra",
+      "country": "Jordan",
+      "continent": "Asia",
+      "city": "Ma'an Governorate",
+      "annual_visitors": 13623886,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Petra is a famous attraction located in Ma'an Governorate, Jordan. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        36,
+        5,
+        3
+      ],
+      "reviews": [
+        {
+          "rating": 3.7,
+          "review": "Great for photography and sightseeing.",
+          "user": "Sara",
+          "date": "2025-03-07"
+        },
+        {
+          "rating": 4.4,
+          "review": "Amazing place, highly recommended!",
+          "user": "Fatima",
+          "date": "2023-08-21"
+        },
+        {
+          "rating": 4.5,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Li",
+          "date": "2024-07-02"
+        },
+        {
+          "rating": 5.0,
+          "review": "One of the top places I've visited.",
+          "user": "Sara",
+          "date": "2023-11-14"
+        },
+        {
+          "rating": 4.1,
+          "review": "Great for photography and sightseeing.",
+          "user": "Tom",
+          "date": "2025-05-16"
+        },
+        {
+          "rating": 3.7,
+          "review": "Amazing place, highly recommended!",
+          "user": "Sara",
+          "date": "2023-07-31"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1186,
+        "min_price_usd": 739,
+        "max_price_usd": 2792
+      },
+      "extra_info": {
+        "best_time_to_visit": "November–March"
+      },
+      "rating": 4.23,
+      "review_count": 6
+    },
+    {
+      "id": 38,
+      "name": "Wadi Rum",
+      "country": "Jordan",
+      "continent": "Asia",
+      "city": "Aqaba",
+      "annual_visitors": 10353153,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Wadi Rum is a famous attraction located in Aqaba, Jordan. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        43,
+        50,
+        12
+      ],
+      "reviews": [
+        {
+          "rating": 3.7,
+          "review": "Amazing place, highly recommended!",
+          "user": "Anna",
+          "date": "2024-08-29"
+        },
+        {
+          "rating": 4.5,
+          "review": "One of the top places I've visited.",
+          "user": "Sara",
+          "date": "2025-06-17"
+        },
+        {
+          "rating": 4.5,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Tom",
+          "date": "2024-03-31"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1213,
+        "min_price_usd": 682,
+        "max_price_usd": 1972
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 1
+      },
+      "rating": 4.23,
+      "review_count": 3
+    },
+    {
+      "id": 39,
+      "name": "Dead Sea",
+      "country": "Jordan/Israel",
+      "continent": "Asia",
+      "city": "Dead Sea",
+      "annual_visitors": 14517311,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Dead Sea is a famous attraction located in Dead Sea, Jordan/Israel. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        42,
+        49,
+        44,
+        14
+      ],
+      "reviews": [
+        {
+          "rating": 4.1,
+          "review": "Amazing place, highly recommended!",
+          "user": "John",
+          "date": "2024-02-22"
+        },
+        {
+          "rating": 4.0,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Sara",
+          "date": "2024-08-17"
+        },
+        {
+          "rating": 5.0,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Anna",
+          "date": "2023-08-01"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1135,
+        "min_price_usd": 495,
+        "max_price_usd": 2439
+      },
+      "extra_info": {
+        "best_time_to_visit": "November–March",
+        "recommended_visit_duration_hours": 3
+      },
+      "rating": 4.37,
+      "review_count": 3
+    },
+    {
+      "id": 40,
+      "name": "Burj Khalifa",
+      "country": "United Arab Emirates",
+      "continent": "Asia",
+      "city": "Dubai",
+      "annual_visitors": 16000000,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Burj Khalifa is a famous attraction located in Dubai, United Arab Emirates. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        51,
+        53,
+        32,
+        60,
+        39,
+        8
+      ],
+      "reviews": [
+        {
+          "rating": 4.1,
+          "review": "Not what I expected but still good.",
+          "user": "John",
+          "date": "2025-02-03"
+        },
+        {
+          "rating": 4.2,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Alex",
+          "date": "2025-10-09"
+        },
+        {
+          "rating": 4.7,
+          "review": "One of the top places I've visited.",
+          "user": "Sara",
+          "date": "2023-08-07"
+        },
+        {
+          "rating": 3.5,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Maya",
+          "date": "2024-07-22"
+        },
+        {
+          "rating": 3.8,
+          "review": "Not what I expected but still good.",
+          "user": "Li",
+          "date": "2024-04-07"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 887,
+        "min_price_usd": 528,
+        "max_price_usd": 2043
+      },
+      "extra_info": {
+        "height_meters": 828
+      },
+      "rating": 4.06,
+      "review_count": 5
+    },
+    {
+      "id": 41,
+      "name": "Sheikh Zayed Grand Mosque",
+      "country": "UAE",
+      "continent": "Asia",
+      "city": "Abu Dhabi",
+      "annual_visitors": 4177412,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Sheikh Zayed Grand Mosque is a famous attraction located in Abu Dhabi, UAE. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        38,
+        35,
+        1,
+        14,
+        60
+      ],
+      "reviews": [
+        {
+          "rating": 4.7,
+          "review": "Amazing place, highly recommended!",
+          "user": "Alex",
+          "date": "2025-06-22"
+        },
+        {
+          "rating": 3.6,
+          "review": "Great for photography and sightseeing.",
+          "user": "Li",
+          "date": "2025-08-12"
+        },
+        {
+          "rating": 4.3,
+          "review": "Worth the trip, beautiful views.",
+          "user": "John",
+          "date": "2025-04-27"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1208,
+        "min_price_usd": 636,
+        "max_price_usd": 2827
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 3
+      },
+      "rating": 4.2,
+      "review_count": 3
+    },
+    {
+      "id": 42,
+      "name": "Pyramids of Giza",
+      "country": "Egypt",
+      "continent": "Africa",
+      "city": "Giza",
+      "annual_visitors": 14000000,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Pyramids of Giza is a famous attraction located in Giza, Egypt. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        25,
+        2,
+        29,
+        56,
+        35
+      ],
+      "reviews": [
+        {
+          "rating": 4.8,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Fatima",
+          "date": "2025-09-27"
+        },
+        {
+          "rating": 4.2,
+          "review": "Amazing place, highly recommended!",
+          "user": "John",
+          "date": "2024-11-04"
+        },
+        {
+          "rating": 3.5,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Mohamed",
+          "date": "2024-02-05"
+        },
+        {
+          "rating": 3.8,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Carlos",
+          "date": "2024-06-16"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1213,
+        "min_price_usd": 715,
+        "max_price_usd": 2051
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–October",
+        "established": "c. 2560 BC",
+        "complex_pyramids": 3
+      },
+      "rating": 4.08,
+      "review_count": 4
+    },
+    {
+      "id": 43,
+      "name": "Luxor Temple",
+      "country": "Egypt",
+      "continent": "Africa",
+      "city": "Luxor",
+      "annual_visitors": 3695186,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Luxor Temple is a famous attraction located in Luxor, Egypt. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        7,
+        9,
+        12,
+        44,
+        36,
+        8
+      ],
+      "reviews": [
+        {
+          "rating": 4.8,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Anna",
+          "date": "2025-06-26"
+        },
+        {
+          "rating": 4.4,
+          "review": "One of the top places I've visited.",
+          "user": "Maya",
+          "date": "2023-09-12"
+        },
+        {
+          "rating": 4.1,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Anna",
+          "date": "2023-12-31"
+        },
+        {
+          "rating": 4.8,
+          "review": "Not what I expected but still good.",
+          "user": "Sara",
+          "date": "2024-02-13"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1152,
+        "min_price_usd": 603,
+        "max_price_usd": 2221
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–June"
+      },
+      "rating": 4.52,
+      "review_count": 4
+    },
+    {
+      "id": 44,
+      "name": "Valley of the Kings",
+      "country": "Egypt",
+      "continent": "Africa",
+      "city": "Luxor",
+      "annual_visitors": 1081410,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Valley of the Kings is a famous attraction located in Luxor, Egypt. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        44,
+        29,
+        6,
+        43,
+        25,
+        59
+      ],
+      "reviews": [
+        {
+          "rating": 3.5,
+          "review": "Amazing place, highly recommended!",
+          "user": "John",
+          "date": "2024-08-22"
+        },
+        {
+          "rating": 4.6,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Tom",
+          "date": "2025-10-13"
+        },
+        {
+          "rating": 4.9,
+          "review": "One of the top places I've visited.",
+          "user": "Carlos",
+          "date": "2023-07-16"
+        },
+        {
+          "rating": 4.4,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Fatima",
+          "date": "2024-10-12"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1292,
+        "min_price_usd": 712,
+        "max_price_usd": 2669
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–June"
+      },
+      "rating": 4.35,
+      "review_count": 4
+    },
+    {
+      "id": 45,
+      "name": "Table Mountain",
+      "country": "South Africa",
+      "continent": "Africa",
+      "city": "Cape Town",
+      "annual_visitors": 5120662,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Table Mountain is a famous attraction located in Cape Town, South Africa. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        56,
+        28,
+        5,
+        38
+      ],
+      "reviews": [
+        {
+          "rating": 4.8,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Fatima",
+          "date": "2024-04-24"
+        },
+        {
+          "rating": 4.3,
+          "review": "Amazing place, highly recommended!",
+          "user": "Li",
+          "date": "2024-10-07"
+        },
+        {
+          "rating": 5.0,
+          "review": "Crowded but unforgettable experience.",
+          "user": "John",
+          "date": "2025-06-18"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1318,
+        "min_price_usd": 763,
+        "max_price_usd": 2020
+      },
+      "extra_info": {},
+      "rating": 4.7,
+      "review_count": 3
+    },
+    {
+      "id": 46,
+      "name": "Kruger National Park",
+      "country": "South Africa",
+      "continent": "Africa",
+      "city": "Mpumalanga",
+      "annual_visitors": 1887212,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Kruger National Park is a famous attraction located in Mpumalanga, South Africa. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        28,
+        33,
+        57
+      ],
+      "reviews": [
+        {
+          "rating": 4.0,
+          "review": "Amazing place, highly recommended!",
+          "user": "Tom",
+          "date": "2024-01-08"
+        },
+        {
+          "rating": 3.9,
+          "review": "Not what I expected but still good.",
+          "user": "John",
+          "date": "2025-07-10"
+        },
+        {
+          "rating": 3.8,
+          "review": "Great for photography and sightseeing.",
+          "user": "Mohamed",
+          "date": "2023-06-30"
+        },
+        {
+          "rating": 3.7,
+          "review": "Great for photography and sightseeing.",
+          "user": "Anna",
+          "date": "2024-04-15"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1111,
+        "min_price_usd": 657,
+        "max_price_usd": 1769
+      },
+      "extra_info": {
+        "best_time_to_visit": "September–October",
+        "recommended_visit_duration_hours": 4
+      },
+      "rating": 3.85,
+      "review_count": 4
+    },
+    {
+      "id": 47,
+      "name": "Serengeti National Park",
+      "country": "Tanzania",
+      "continent": "Africa",
+      "city": "Serengeti",
+      "annual_visitors": 4492842,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Serengeti National Park is a famous attraction located in Serengeti, Tanzania. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        54,
+        37,
+        49,
+        9,
+        43,
+        33
+      ],
+      "reviews": [
+        {
+          "rating": 4.3,
+          "review": "Amazing place, highly recommended!",
+          "user": "Alex",
+          "date": "2023-09-21"
+        },
+        {
+          "rating": 4.8,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Li",
+          "date": "2024-04-23"
+        },
+        {
+          "rating": 4.8,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Sara",
+          "date": "2025-05-16"
+        },
+        {
+          "rating": 4.4,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "John",
+          "date": "2025-07-03"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1266,
+        "min_price_usd": 872,
+        "max_price_usd": 2886
+      },
+      "extra_info": {
+        "best_time_to_visit": "November–March",
+        "recommended_visit_duration_hours": 2
+      },
+      "rating": 4.57,
+      "review_count": 4
+    },
+    {
+      "id": 48,
+      "name": "Mount Kilimanjaro",
+      "country": "Tanzania",
+      "continent": "Africa",
+      "city": "Kilimanjaro",
+      "annual_visitors": 3962001,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Mount Kilimanjaro is a famous attraction located in Kilimanjaro, Tanzania. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        19,
+        53,
+        28,
+        32,
+        39
+      ],
+      "reviews": [
+        {
+          "rating": 3.5,
+          "review": "Amazing place, highly recommended!",
+          "user": "Sara",
+          "date": "2025-05-06"
+        },
+        {
+          "rating": 4.3,
+          "review": "Not what I expected but still good.",
+          "user": "Anna",
+          "date": "2023-11-16"
+        },
+        {
+          "rating": 4.2,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "John",
+          "date": "2024-02-15"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1388,
+        "min_price_usd": 646,
+        "max_price_usd": 2117
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–June"
+      },
+      "rating": 4.0,
+      "review_count": 3
+    },
+    {
+      "id": 49,
+      "name": "Marrakech Medina",
+      "country": "Morocco",
+      "continent": "Africa",
+      "city": "Marrakech",
+      "annual_visitors": 5772955,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Marrakech Medina is a famous attraction located in Marrakech, Morocco. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        16,
+        8,
+        59,
+        20
+      ],
+      "reviews": [
+        {
+          "rating": 4.7,
+          "review": "Not what I expected but still good.",
+          "user": "Tom",
+          "date": "2023-06-22"
+        },
+        {
+          "rating": 4.9,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Fatima",
+          "date": "2023-08-21"
+        },
+        {
+          "rating": 3.9,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Fatima",
+          "date": "2024-07-11"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1332,
+        "min_price_usd": 763,
+        "max_price_usd": 2390
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 6
+      },
+      "rating": 4.5,
+      "review_count": 3
+    },
+    {
+      "id": 50,
+      "name": "Djemaa el-Fna",
+      "country": "Morocco",
+      "continent": "Africa",
+      "city": "Marrakech",
+      "annual_visitors": 5811356,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Djemaa el-Fna is a famous attraction located in Marrakech, Morocco. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        30,
+        1,
+        23,
+        34,
+        45
+      ],
+      "reviews": [
+        {
+          "rating": 3.7,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "John",
+          "date": "2024-10-03"
+        },
+        {
+          "rating": 3.8,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Anna",
+          "date": "2025-05-04"
+        },
+        {
+          "rating": 4.5,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Tom",
+          "date": "2024-09-26"
+        },
+        {
+          "rating": 4.1,
+          "review": "Not what I expected but still good.",
+          "user": "Alex",
+          "date": "2024-03-22"
+        },
+        {
+          "rating": 3.7,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Anna",
+          "date": "2025-03-07"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1451,
+        "min_price_usd": 738,
+        "max_price_usd": 2675
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–June",
+        "recommended_visit_duration_hours": 4
+      },
+      "rating": 3.96,
+      "review_count": 5
+    },
+    {
+      "id": 51,
+      "name": "Sahara Desert (Merzouga)",
+      "country": "Morocco",
+      "continent": "Africa",
+      "city": "Merzouga",
+      "annual_visitors": 1854543,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Sahara Desert (Merzouga) is a famous attraction located in Merzouga, Morocco. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        5,
+        60,
+        26,
+        21,
+        33
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "review": "Not what I expected but still good.",
+          "user": "Fatima",
+          "date": "2023-12-01"
+        },
+        {
+          "rating": 4.5,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Carlos",
+          "date": "2025-07-16"
+        },
+        {
+          "rating": 4.4,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Anna",
+          "date": "2025-06-09"
+        },
+        {
+          "rating": 4.9,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Maya",
+          "date": "2023-10-25"
+        },
+        {
+          "rating": 4.7,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Maya",
+          "date": "2025-07-11"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1565,
+        "min_price_usd": 823,
+        "max_price_usd": 3065
+      },
+      "extra_info": {},
+      "rating": 4.68,
+      "review_count": 5
+    },
+    {
+      "id": 52,
+      "name": "Tableau of Blyde River Canyon",
+      "country": "South Africa",
+      "continent": "Africa",
+      "city": "Mpumalanga",
+      "annual_visitors": 3915344,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Tableau of Blyde River Canyon is a famous attraction located in Mpumalanga, South Africa. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        1,
+        7,
+        45
+      ],
+      "reviews": [
+        {
+          "rating": 4.2,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Sara",
+          "date": "2024-02-16"
+        },
+        {
+          "rating": 3.6,
+          "review": "Great for photography and sightseeing.",
+          "user": "Fatima",
+          "date": "2025-06-05"
+        },
+        {
+          "rating": 5.0,
+          "review": "Amazing place, highly recommended!",
+          "user": "Sara",
+          "date": "2024-02-10"
+        },
+        {
+          "rating": 3.8,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Carlos",
+          "date": "2023-07-25"
+        },
+        {
+          "rating": 4.5,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Mohamed",
+          "date": "2023-11-27"
+        },
+        {
+          "rating": 4.3,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Sara",
+          "date": "2024-10-08"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1469,
+        "min_price_usd": 908,
+        "max_price_usd": 2556
+      },
+      "extra_info": {},
+      "rating": 4.23,
+      "review_count": 6
+    },
+    {
+      "id": 53,
+      "name": "Santorini (Oia)",
+      "country": "Greece",
+      "continent": "Europe",
+      "city": "Santorini",
+      "annual_visitors": 2000000,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Santorini (Oia) is a famous attraction located in Santorini, Greece. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        49,
+        59,
+        37
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "review": "Not what I expected but still good.",
+          "user": "Anna",
+          "date": "2025-08-22"
+        },
+        {
+          "rating": 3.9,
+          "review": "Not what I expected but still good.",
+          "user": "Mohamed",
+          "date": "2025-02-21"
+        },
+        {
+          "rating": 4.7,
+          "review": "Amazing place, highly recommended!",
+          "user": "Tom",
+          "date": "2024-02-28"
+        },
+        {
+          "rating": 4.5,
+          "review": "Worth the trip, beautiful views.",
+          "user": "John",
+          "date": "2023-07-15"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1760,
+        "min_price_usd": 765,
+        "max_price_usd": 3064
+      },
+      "extra_info": {
+        "best_time_to_visit": "May–September",
+        "recommended_visit_duration_hours": 4,
+        "famous_for": "Sunsets and whitewashed buildings"
+      },
+      "rating": 4.5,
+      "review_count": 4
+    },
+    {
+      "id": 54,
+      "name": "Mykonos",
+      "country": "Greece",
+      "continent": "Europe",
+      "city": "Mykonos",
+      "annual_visitors": 1074051,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Mykonos is a famous attraction located in Mykonos, Greece. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        23,
+        43,
+        9,
+        17
+      ],
+      "reviews": [
+        {
+          "rating": 4.4,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Mohamed",
+          "date": "2023-08-23"
+        },
+        {
+          "rating": 3.8,
+          "review": "One of the top places I've visited.",
+          "user": "Li",
+          "date": "2024-02-02"
+        },
+        {
+          "rating": 3.6,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Li",
+          "date": "2025-06-06"
+        },
+        {
+          "rating": 3.6,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Carlos",
+          "date": "2025-09-10"
+        },
+        {
+          "rating": 4.4,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Anna",
+          "date": "2023-11-30"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1467,
+        "min_price_usd": 690,
+        "max_price_usd": 3539
+      },
+      "extra_info": {},
+      "rating": 3.96,
+      "review_count": 5
+    },
+    {
+      "id": 55,
+      "name": "Prague Old Town",
+      "country": "Czech Republic",
+      "continent": "Europe",
+      "city": "Prague",
+      "annual_visitors": 7174273,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Prague Old Town is a famous attraction located in Prague, Czech Republic. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        22,
+        42,
+        1,
+        2,
+        19,
+        39
+      ],
+      "reviews": [
+        {
+          "rating": 4.3,
+          "review": "Amazing place, highly recommended!",
+          "user": "Alex",
+          "date": "2025-07-23"
+        },
+        {
+          "rating": 4.4,
+          "review": "Great for photography and sightseeing.",
+          "user": "Fatima",
+          "date": "2025-02-17"
+        },
+        {
+          "rating": 4.8,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "John",
+          "date": "2023-06-10"
+        },
+        {
+          "rating": 4.0,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Mohamed",
+          "date": "2023-09-15"
+        },
+        {
+          "rating": 4.6,
+          "review": "Great for photography and sightseeing.",
+          "user": "Carlos",
+          "date": "2024-04-09"
+        },
+        {
+          "rating": 3.6,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "John",
+          "date": "2025-03-30"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1417,
+        "min_price_usd": 609,
+        "max_price_usd": 2909
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 6
+      },
+      "rating": 4.28,
+      "review_count": 6
+    },
+    {
+      "id": 56,
+      "name": "Dubrovnik Old Town",
+      "country": "Croatia",
+      "continent": "Europe",
+      "city": "Dubrovnik",
+      "annual_visitors": 5677677,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Dubrovnik Old Town is a famous attraction located in Dubrovnik, Croatia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        6,
+        51,
+        28,
+        25,
+        45
+      ],
+      "reviews": [
+        {
+          "rating": 4.3,
+          "review": "Great for photography and sightseeing.",
+          "user": "Sara",
+          "date": "2025-02-25"
+        },
+        {
+          "rating": 4.9,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Alex",
+          "date": "2025-06-10"
+        },
+        {
+          "rating": 3.7,
+          "review": "Great for photography and sightseeing.",
+          "user": "Alex",
+          "date": "2023-10-13"
+        },
+        {
+          "rating": 5.0,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Sara",
+          "date": "2024-06-10"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1806,
+        "min_price_usd": 1208,
+        "max_price_usd": 3298
+      },
+      "extra_info": {
+        "best_time_to_visit": "Year-round",
+        "recommended_visit_duration_hours": 6
+      },
+      "rating": 4.47,
+      "review_count": 4
+    },
+    {
+      "id": 57,
+      "name": "Plitvice Lakes",
+      "country": "Croatia",
+      "continent": "Europe",
+      "city": "Plitvice",
+      "annual_visitors": 6809419,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Plitvice Lakes is a famous attraction located in Plitvice, Croatia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        22,
+        52,
+        12,
+        10,
+        35,
+        49
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "review": "One of the top places I've visited.",
+          "user": "Tom",
+          "date": "2024-03-11"
+        },
+        {
+          "rating": 4.6,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Maya",
+          "date": "2024-09-07"
+        },
+        {
+          "rating": 4.7,
+          "review": "Great for photography and sightseeing.",
+          "user": "Fatima",
+          "date": "2023-10-01"
+        },
+        {
+          "rating": 5.0,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Maya",
+          "date": "2024-02-07"
+        },
+        {
+          "rating": 4.9,
+          "review": "Amazing place, highly recommended!",
+          "user": "Alex",
+          "date": "2025-07-31"
+        },
+        {
+          "rating": 4.1,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Maya",
+          "date": "2024-02-04"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1557,
+        "min_price_usd": 789,
+        "max_price_usd": 3502
+      },
+      "extra_info": {},
+      "rating": 4.7,
+      "review_count": 6
+    },
+    {
+      "id": 58,
+      "name": "Matterhorn (Zermatt)",
+      "country": "Switzerland",
+      "continent": "Europe",
+      "city": "Zermatt",
+      "annual_visitors": 3860519,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Matterhorn (Zermatt) is a famous attraction located in Zermatt, Switzerland. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        58,
+        60,
+        45,
+        42,
+        7
+      ],
+      "reviews": [
+        {
+          "rating": 4.8,
+          "review": "Amazing place, highly recommended!",
+          "user": "Mohamed",
+          "date": "2024-07-16"
+        },
+        {
+          "rating": 4.3,
+          "review": "Amazing place, highly recommended!",
+          "user": "Maya",
+          "date": "2025-06-24"
+        },
+        {
+          "rating": 3.7,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Maya",
+          "date": "2024-05-20"
+        },
+        {
+          "rating": 4.0,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Carlos",
+          "date": "2025-07-30"
+        },
+        {
+          "rating": 4.2,
+          "review": "Great for photography and sightseeing.",
+          "user": "Sara",
+          "date": "2025-05-09"
+        },
+        {
+          "rating": 4.6,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Tom",
+          "date": "2024-01-12"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1459,
+        "min_price_usd": 678,
+        "max_price_usd": 2512
+      },
+      "extra_info": {
+        "best_time_to_visit": "November–March"
+      },
+      "rating": 4.27,
+      "review_count": 6
+    },
+    {
+      "id": 59,
+      "name": "Jungfraujoch",
+      "country": "Switzerland",
+      "continent": "Europe",
+      "city": "Bernese Oberland",
+      "annual_visitors": 9828478,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Jungfraujoch is a famous attraction located in Bernese Oberland, Switzerland. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        30,
+        42,
+        29,
+        27,
+        11,
+        13
+      ],
+      "reviews": [
+        {
+          "rating": 4.3,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "John",
+          "date": "2023-10-18"
+        },
+        {
+          "rating": 3.8,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Carlos",
+          "date": "2023-11-10"
+        },
+        {
+          "rating": 4.4,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Maya",
+          "date": "2024-09-20"
+        },
+        {
+          "rating": 3.7,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Alex",
+          "date": "2024-07-22"
+        },
+        {
+          "rating": 4.6,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "John",
+          "date": "2024-08-19"
+        },
+        {
+          "rating": 4.0,
+          "review": "Great for photography and sightseeing.",
+          "user": "John",
+          "date": "2025-11-01"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1341,
+        "min_price_usd": 892,
+        "max_price_usd": 2998
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–October"
+      },
+      "rating": 4.13,
+      "review_count": 6
+    },
+    {
+      "id": 60,
+      "name": "Mount Everest Base Camp",
+      "country": "Nepal",
+      "continent": "Asia",
+      "city": "Khumbu",
+      "annual_visitors": 10315888,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Mount Everest Base Camp is a famous attraction located in Khumbu, Nepal. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        28,
+        17,
+        34
+      ],
+      "reviews": [
+        {
+          "rating": 3.5,
+          "review": "Amazing place, highly recommended!",
+          "user": "Fatima",
+          "date": "2024-06-18"
+        },
+        {
+          "rating": 4.7,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Anna",
+          "date": "2025-10-09"
+        },
+        {
+          "rating": 4.9,
+          "review": "Not what I expected but still good.",
+          "user": "Tom",
+          "date": "2023-08-01"
+        },
+        {
+          "rating": 4.8,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Alex",
+          "date": "2024-01-19"
+        },
+        {
+          "rating": 4.9,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Anna",
+          "date": "2024-01-18"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1036,
+        "min_price_usd": 703,
+        "max_price_usd": 2526
+      },
+      "extra_info": {
+        "best_time_to_visit": "Year-round"
+      },
+      "rating": 4.56,
+      "review_count": 5
+    },
+    {
+      "id": 61,
+      "name": "Lhasa (Potala Palace)",
+      "country": "China/Tibet",
+      "continent": "Asia",
+      "city": "Lhasa",
+      "annual_visitors": 4294043,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Lhasa (Potala Palace) is a famous attraction located in Lhasa, China/Tibet. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        30,
+        49,
+        35,
+        2
+      ],
+      "reviews": [
+        {
+          "rating": 4.0,
+          "review": "Not what I expected but still good.",
+          "user": "Fatima",
+          "date": "2023-11-28"
+        },
+        {
+          "rating": 4.5,
+          "review": "Not what I expected but still good.",
+          "user": "Fatima",
+          "date": "2024-11-23"
+        },
+        {
+          "rating": 4.4,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Fatima",
+          "date": "2024-02-20"
+        },
+        {
+          "rating": 3.9,
+          "review": "Great for photography and sightseeing.",
+          "user": "Li",
+          "date": "2024-10-09"
+        },
+        {
+          "rating": 4.0,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Carlos",
+          "date": "2023-06-15"
+        },
+        {
+          "rating": 4.0,
+          "review": "Great for photography and sightseeing.",
+          "user": "Mohamed",
+          "date": "2023-06-25"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 954,
+        "min_price_usd": 409,
+        "max_price_usd": 2021
+      },
+      "extra_info": {},
+      "rating": 4.13,
+      "review_count": 6
+    },
+    {
+      "id": 62,
+      "name": "Bagan Temples",
+      "country": "Myanmar",
+      "continent": "Asia",
+      "city": "Bagan",
+      "annual_visitors": 7898592,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Bagan Temples is a famous attraction located in Bagan, Myanmar. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        40,
+        14,
+        16,
+        29
+      ],
+      "reviews": [
+        {
+          "rating": 3.6,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Mohamed",
+          "date": "2023-10-26"
+        },
+        {
+          "rating": 4.9,
+          "review": "One of the top places I've visited.",
+          "user": "Carlos",
+          "date": "2025-01-12"
+        },
+        {
+          "rating": 4.8,
+          "review": "Great for photography and sightseeing.",
+          "user": "Mohamed",
+          "date": "2024-03-10"
+        },
+        {
+          "rating": 4.4,
+          "review": "Amazing place, highly recommended!",
+          "user": "Anna",
+          "date": "2023-10-09"
+        },
+        {
+          "rating": 4.5,
+          "review": "Not what I expected but still good.",
+          "user": "Sara",
+          "date": "2024-06-25"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1204,
+        "min_price_usd": 677,
+        "max_price_usd": 2180
+      },
+      "extra_info": {
+        "best_time_to_visit": "September–October",
+        "recommended_visit_duration_hours": 4
+      },
+      "rating": 4.44,
+      "review_count": 5
+    },
+    {
+      "id": 63,
+      "name": "Angra dos Reis / Ilha Grande",
+      "country": "Brazil",
+      "continent": "South America",
+      "city": "Angra dos Reis",
+      "annual_visitors": 4243361,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Angra dos Reis / Ilha Grande is a famous attraction located in Angra dos Reis, Brazil. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        23,
+        52,
+        20,
+        41
+      ],
+      "reviews": [
+        {
+          "rating": 4.0,
+          "review": "Not what I expected but still good.",
+          "user": "Fatima",
+          "date": "2023-10-16"
+        },
+        {
+          "rating": 4.4,
+          "review": "One of the top places I've visited.",
+          "user": "Carlos",
+          "date": "2024-12-15"
+        },
+        {
+          "rating": 4.0,
+          "review": "One of the top places I've visited.",
+          "user": "Maya",
+          "date": "2023-12-01"
+        },
+        {
+          "rating": 4.0,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Alex",
+          "date": "2024-09-02"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1126,
+        "min_price_usd": 690,
+        "max_price_usd": 2316
+      },
+      "extra_info": {
+        "best_time_to_visit": "Year-round",
+        "recommended_visit_duration_hours": 6
+      },
+      "rating": 4.1,
+      "review_count": 4
+    },
+    {
+      "id": 64,
+      "name": "Cartagena Old Town",
+      "country": "Colombia",
+      "continent": "South America",
+      "city": "Cartagena",
+      "annual_visitors": 2118495,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Cartagena Old Town is a famous attraction located in Cartagena, Colombia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        27,
+        24,
+        5,
+        16,
+        11,
+        28
+      ],
+      "reviews": [
+        {
+          "rating": 4.1,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Tom",
+          "date": "2024-08-08"
+        },
+        {
+          "rating": 4.5,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Tom",
+          "date": "2025-05-09"
+        },
+        {
+          "rating": 4.1,
+          "review": "One of the top places I've visited.",
+          "user": "John",
+          "date": "2025-08-22"
+        },
+        {
+          "rating": 4.6,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Maya",
+          "date": "2023-09-12"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1128,
+        "min_price_usd": 472,
+        "max_price_usd": 2660
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–October"
+      },
+      "rating": 4.32,
+      "review_count": 4
+    },
+    {
+      "id": 65,
+      "name": "Easter Island (Rapa Nui)",
+      "country": "Chile",
+      "continent": "South America",
+      "city": "Rapa Nui",
+      "annual_visitors": 5788298,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Easter Island (Rapa Nui) is a famous attraction located in Rapa Nui, Chile. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        20,
+        35,
+        6
+      ],
+      "reviews": [
+        {
+          "rating": 4.4,
+          "review": "Great for photography and sightseeing.",
+          "user": "Sara",
+          "date": "2025-10-27"
+        },
+        {
+          "rating": 4.3,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Anna",
+          "date": "2024-03-27"
+        },
+        {
+          "rating": 4.1,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Carlos",
+          "date": "2024-12-18"
+        },
+        {
+          "rating": 4.8,
+          "review": "Not what I expected but still good.",
+          "user": "Fatima",
+          "date": "2025-04-05"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1344,
+        "min_price_usd": 699,
+        "max_price_usd": 2405
+      },
+      "extra_info": {
+        "best_time_to_visit": "May–September",
+        "recommended_visit_duration_hours": 4
+      },
+      "rating": 4.4,
+      "review_count": 4
+    },
+    {
+      "id": 66,
+      "name": "Great Barrier Reef",
+      "country": "Australia",
+      "continent": "Oceania",
+      "city": "Queensland",
+      "annual_visitors": 2500000,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Great Barrier Reef is a famous attraction located in Queensland, Australia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        2,
+        29,
+        22,
+        56,
+        6
+      ],
+      "reviews": [
+        {
+          "rating": 5.0,
+          "review": "Amazing place, highly recommended!",
+          "user": "Fatima",
+          "date": "2025-03-27"
+        },
+        {
+          "rating": 3.7,
+          "review": "Not what I expected but still good.",
+          "user": "Sara",
+          "date": "2023-11-03"
+        },
+        {
+          "rating": 4.5,
+          "review": "One of the top places I've visited.",
+          "user": "Tom",
+          "date": "2025-05-04"
+        },
+        {
+          "rating": 4.2,
+          "review": "One of the top places I've visited.",
+          "user": "Carlos",
+          "date": "2023-09-21"
+        },
+        {
+          "rating": 4.2,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Li",
+          "date": "2025-04-27"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 2432,
+        "min_price_usd": 1515,
+        "max_price_usd": 5989
+      },
+      "extra_info": {
+        "best_time_to_visit": "September–October",
+        "recommended_visit_duration_hours": 8,
+        "length_km": 2300
+      },
+      "rating": 4.32,
+      "review_count": 5
+    },
+    {
+      "id": 67,
+      "name": "Sydney Opera House",
+      "country": "Australia",
+      "continent": "Oceania",
+      "city": "Sydney",
+      "annual_visitors": 1825726,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Sydney Opera House is a famous attraction located in Sydney, Australia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        43,
+        37,
+        22,
+        44,
+        34,
+        21
+      ],
+      "reviews": [
+        {
+          "rating": 3.5,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Mohamed",
+          "date": "2025-06-26"
+        },
+        {
+          "rating": 4.1,
+          "review": "One of the top places I've visited.",
+          "user": "John",
+          "date": "2025-10-25"
+        },
+        {
+          "rating": 4.6,
+          "review": "Not what I expected but still good.",
+          "user": "Tom",
+          "date": "2024-04-18"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 3052,
+        "min_price_usd": 1310,
+        "max_price_usd": 5219
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 4
+      },
+      "rating": 4.07,
+      "review_count": 3
+    },
+    {
+      "id": 68,
+      "name": "Uluru (Ayers Rock)",
+      "country": "Australia",
+      "continent": "Oceania",
+      "city": "Northern Territory",
+      "annual_visitors": 1137807,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Uluru (Ayers Rock) is a famous attraction located in Northern Territory, Australia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        49,
+        26,
+        19,
+        17,
+        50,
+        28
+      ],
+      "reviews": [
+        {
+          "rating": 4.3,
+          "review": "Great for photography and sightseeing.",
+          "user": "Li",
+          "date": "2024-05-15"
+        },
+        {
+          "rating": 3.8,
+          "review": "Not what I expected but still good.",
+          "user": "Maya",
+          "date": "2023-07-15"
+        },
+        {
+          "rating": 3.5,
+          "review": "One of the top places I've visited.",
+          "user": "Anna",
+          "date": "2024-10-22"
+        },
+        {
+          "rating": 4.1,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Mohamed",
+          "date": "2023-10-24"
+        },
+        {
+          "rating": 4.4,
+          "review": "Great for photography and sightseeing.",
+          "user": "John",
+          "date": "2025-04-30"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 2251,
+        "min_price_usd": 1340,
+        "max_price_usd": 5286
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–October"
+      },
+      "rating": 4.02,
+      "review_count": 5
+    },
+    {
+      "id": 69,
+      "name": "Fiordland (Milford Sound)",
+      "country": "New Zealand",
+      "continent": "Oceania",
+      "city": "Southland",
+      "annual_visitors": 2364780,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Fiordland (Milford Sound) is a famous attraction located in Southland, New Zealand. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        42,
+        35,
+        1,
+        54,
+        18
+      ],
+      "reviews": [
+        {
+          "rating": 4.1,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "John",
+          "date": "2024-10-20"
+        },
+        {
+          "rating": 4.7,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Fatima",
+          "date": "2024-03-02"
+        },
+        {
+          "rating": 3.6,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Maya",
+          "date": "2024-08-23"
+        },
+        {
+          "rating": 4.6,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Alex",
+          "date": "2025-06-29"
+        },
+        {
+          "rating": 3.8,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Sara",
+          "date": "2024-09-17"
+        },
+        {
+          "rating": 3.7,
+          "review": "Great for photography and sightseeing.",
+          "user": "Carlos",
+          "date": "2023-10-01"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 2467,
+        "min_price_usd": 1181,
+        "max_price_usd": 5912
+      },
+      "extra_info": {
+        "best_time_to_visit": "Year-round"
+      },
+      "rating": 4.08,
+      "review_count": 6
+    },
+    {
+      "id": 70,
+      "name": "Tongariro Crossing",
+      "country": "New Zealand",
+      "continent": "Oceania",
+      "city": "North Island",
+      "annual_visitors": 1614277,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Tongariro Crossing is a famous attraction located in North Island, New Zealand. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        45,
+        32,
+        57,
+        47,
+        9
+      ],
+      "reviews": [
+        {
+          "rating": 4.6,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Mohamed",
+          "date": "2023-06-26"
+        },
+        {
+          "rating": 4.1,
+          "review": "Amazing place, highly recommended!",
+          "user": "Carlos",
+          "date": "2025-06-20"
+        },
+        {
+          "rating": 4.2,
+          "review": "One of the top places I've visited.",
+          "user": "Maya",
+          "date": "2024-05-17"
+        },
+        {
+          "rating": 4.4,
+          "review": "One of the top places I've visited.",
+          "user": "Tom",
+          "date": "2024-06-27"
+        },
+        {
+          "rating": 4.5,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Anna",
+          "date": "2025-06-19"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 2692,
+        "min_price_usd": 1726,
+        "max_price_usd": 5448
+      },
+      "extra_info": {
+        "best_time_to_visit": "May–September"
+      },
+      "rating": 4.36,
+      "review_count": 5
+    },
+    {
+      "id": 71,
+      "name": "Bora Bora",
+      "country": "French Polynesia",
+      "continent": "Oceania",
+      "city": "Bora Bora",
+      "annual_visitors": 669373,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Bora Bora is a famous attraction located in Bora Bora, French Polynesia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        37,
+        51,
+        56,
+        27,
+        57,
+        11
+      ],
+      "reviews": [
+        {
+          "rating": 3.7,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Mohamed",
+          "date": "2025-07-14"
+        },
+        {
+          "rating": 4.2,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "John",
+          "date": "2024-01-23"
+        },
+        {
+          "rating": 4.8,
+          "review": "Great for photography and sightseeing.",
+          "user": "Alex",
+          "date": "2024-10-24"
+        },
+        {
+          "rating": 5.0,
+          "review": "Amazing place, highly recommended!",
+          "user": "Alex",
+          "date": "2023-12-24"
+        },
+        {
+          "rating": 5.0,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Mohamed",
+          "date": "2024-08-11"
+        },
+        {
+          "rating": 4.3,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Mohamed",
+          "date": "2024-03-30"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 2930,
+        "min_price_usd": 1919,
+        "max_price_usd": 5131
+      },
+      "extra_info": {
+        "best_time_to_visit": "November–March",
+        "recommended_visit_duration_hours": 2
+      },
+      "rating": 4.5,
+      "review_count": 6
+    },
+    {
+      "id": 72,
+      "name": "Hagia Sophia",
+      "country": "Turkey",
+      "continent": "Europe/Asia",
+      "city": "Istanbul",
+      "annual_visitors": 7426069,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Hagia Sophia is a famous attraction located in Istanbul, Turkey. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        15,
+        32,
+        23,
+        28
+      ],
+      "reviews": [
+        {
+          "rating": 4.4,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Anna",
+          "date": "2025-08-17"
+        },
+        {
+          "rating": 4.6,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Carlos",
+          "date": "2023-09-09"
+        },
+        {
+          "rating": 4.7,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Anna",
+          "date": "2025-10-02"
+        },
+        {
+          "rating": 4.1,
+          "review": "Great for photography and sightseeing.",
+          "user": "Carlos",
+          "date": "2024-10-26"
+        },
+        {
+          "rating": 3.9,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Li",
+          "date": "2024-07-03"
+        },
+        {
+          "rating": 4.2,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Fatima",
+          "date": "2025-06-15"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1492,
+        "min_price_usd": 957,
+        "max_price_usd": 2862
+      },
+      "extra_info": {
+        "best_time_to_visit": "Year-round"
+      },
+      "rating": 4.32,
+      "review_count": 6
+    },
+    {
+      "id": 73,
+      "name": "Cappadocia",
+      "country": "Turkey",
+      "continent": "Asia",
+      "city": "Nevşehir",
+      "annual_visitors": 5487527,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Cappadocia is a famous attraction located in Nevşehir, Turkey. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        5,
+        59,
+        22,
+        50,
+        30,
+        18
+      ],
+      "reviews": [
+        {
+          "rating": 3.6,
+          "review": "Not what I expected but still good.",
+          "user": "Mohamed",
+          "date": "2024-02-02"
+        },
+        {
+          "rating": 3.8,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Sara",
+          "date": "2024-10-23"
+        },
+        {
+          "rating": 3.7,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Tom",
+          "date": "2024-01-09"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 953,
+        "min_price_usd": 505,
+        "max_price_usd": 1994
+      },
+      "extra_info": {
+        "best_time_to_visit": "Year-round"
+      },
+      "rating": 3.7,
+      "review_count": 3
+    },
+    {
+      "id": 74,
+      "name": "Blue Mosque",
+      "country": "Turkey",
+      "continent": "Europe/Asia",
+      "city": "Istanbul",
+      "annual_visitors": 5822901,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Blue Mosque is a famous attraction located in Istanbul, Turkey. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        59,
+        31,
+        28,
+        23
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "review": "Great for photography and sightseeing.",
+          "user": "Maya",
+          "date": "2024-09-02"
+        },
+        {
+          "rating": 3.8,
+          "review": "Not what I expected but still good.",
+          "user": "Maya",
+          "date": "2024-03-07"
+        },
+        {
+          "rating": 4.6,
+          "review": "One of the top places I've visited.",
+          "user": "John",
+          "date": "2024-04-07"
+        },
+        {
+          "rating": 4.4,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Tom",
+          "date": "2023-07-27"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1407,
+        "min_price_usd": 815,
+        "max_price_usd": 3268
+      },
+      "extra_info": {
+        "best_time_to_visit": "Year-round",
+        "recommended_visit_duration_hours": 3
+      },
+      "rating": 4.33,
+      "review_count": 4
+    },
+    {
+      "id": 75,
+      "name": "Riga Old Town",
+      "country": "Latvia",
+      "continent": "Europe",
+      "city": "Riga",
+      "annual_visitors": 7938406,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Riga Old Town is a famous attraction located in Riga, Latvia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        30,
+        9,
+        14,
+        29,
+        7,
+        28
+      ],
+      "reviews": [
+        {
+          "rating": 4.4,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Mohamed",
+          "date": "2024-06-11"
+        },
+        {
+          "rating": 4.1,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Sara",
+          "date": "2025-08-09"
+        },
+        {
+          "rating": 4.6,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Carlos",
+          "date": "2023-08-05"
+        },
+        {
+          "rating": 3.6,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Li",
+          "date": "2025-07-22"
+        },
+        {
+          "rating": 4.6,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Maya",
+          "date": "2024-02-17"
+        },
+        {
+          "rating": 4.6,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Sara",
+          "date": "2024-04-23"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1745,
+        "min_price_usd": 956,
+        "max_price_usd": 2909
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–October",
+        "recommended_visit_duration_hours": 1
+      },
+      "rating": 4.32,
+      "review_count": 6
+    },
+    {
+      "id": 76,
+      "name": "Zion National Park",
+      "country": "United States",
+      "continent": "North America",
+      "city": "Utah",
+      "annual_visitors": 5861378,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Zion National Park is a famous attraction located in Utah, United States. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        58,
+        55,
+        40
+      ],
+      "reviews": [
+        {
+          "rating": 3.8,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Sara",
+          "date": "2024-02-13"
+        },
+        {
+          "rating": 4.9,
+          "review": "Not what I expected but still good.",
+          "user": "Carlos",
+          "date": "2024-03-21"
+        },
+        {
+          "rating": 4.9,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Maya",
+          "date": "2023-06-27"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1639,
+        "min_price_usd": 773,
+        "max_price_usd": 4038
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 2
+      },
+      "rating": 4.53,
+      "review_count": 3
+    },
+    {
+      "id": 77,
+      "name": "Antelope Canyon",
+      "country": "United States",
+      "continent": "North America",
+      "city": "Arizona",
+      "annual_visitors": 46818275,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Antelope Canyon is a famous attraction located in Arizona, United States. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        1,
+        27,
+        40,
+        34
+      ],
+      "reviews": [
+        {
+          "rating": 4.2,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Maya",
+          "date": "2023-06-20"
+        },
+        {
+          "rating": 4.6,
+          "review": "Amazing place, highly recommended!",
+          "user": "Sara",
+          "date": "2023-11-18"
+        },
+        {
+          "rating": 3.9,
+          "review": "Great for photography and sightseeing.",
+          "user": "Sara",
+          "date": "2024-07-16"
+        },
+        {
+          "rating": 4.8,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Fatima",
+          "date": "2025-06-29"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1559,
+        "min_price_usd": 768,
+        "max_price_usd": 3469
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 8
+      },
+      "rating": 4.38,
+      "review_count": 4
+    },
+    {
+      "id": 78,
+      "name": "Sistine Chapel",
+      "country": "Vatican City",
+      "continent": "Europe",
+      "city": "Vatican City",
+      "annual_visitors": 5902777,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Sistine Chapel is a famous attraction located in Vatican City, Vatican City. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        35,
+        19,
+        59
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "review": "Great for photography and sightseeing.",
+          "user": "John",
+          "date": "2023-09-03"
+        },
+        {
+          "rating": 4.8,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Maya",
+          "date": "2024-06-16"
+        },
+        {
+          "rating": 4.7,
+          "review": "Amazing place, highly recommended!",
+          "user": "Li",
+          "date": "2025-10-12"
+        },
+        {
+          "rating": 4.7,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Maya",
+          "date": "2023-11-27"
+        },
+        {
+          "rating": 4.1,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Maya",
+          "date": "2024-06-05"
+        },
+        {
+          "rating": 4.1,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Mohamed",
+          "date": "2025-09-22"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1748,
+        "min_price_usd": 1034,
+        "max_price_usd": 3854
+      },
+      "extra_info": {
+        "best_time_to_visit": "November–March",
+        "recommended_visit_duration_hours": 2
+      },
+      "rating": 4.48,
+      "review_count": 6
+    },
+    {
+      "id": 79,
+      "name": "Hermitage Museum",
+      "country": "Russia",
+      "continent": "Europe/Asia",
+      "city": "Saint Petersburg",
+      "annual_visitors": 2689849,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Hermitage Museum is a famous attraction located in Saint Petersburg, Russia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        4,
+        29,
+        2,
+        31,
+        55
+      ],
+      "reviews": [
+        {
+          "rating": 4.3,
+          "review": "Not what I expected but still good.",
+          "user": "Li",
+          "date": "2024-04-21"
+        },
+        {
+          "rating": 3.8,
+          "review": "Not what I expected but still good.",
+          "user": "Alex",
+          "date": "2024-07-22"
+        },
+        {
+          "rating": 4.1,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Sara",
+          "date": "2025-08-19"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1469,
+        "min_price_usd": 757,
+        "max_price_usd": 2221
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–October"
+      },
+      "rating": 4.07,
+      "review_count": 3
+    },
+    {
+      "id": 80,
+      "name": "Red Square",
+      "country": "Russia",
+      "continent": "Europe/Asia",
+      "city": "Moscow",
+      "annual_visitors": 5951752,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Red Square is a famous attraction located in Moscow, Russia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        51,
+        36,
+        57,
+        25,
+        45
+      ],
+      "reviews": [
+        {
+          "rating": 4.4,
+          "review": "One of the top places I've visited.",
+          "user": "Fatima",
+          "date": "2024-12-16"
+        },
+        {
+          "rating": 3.7,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Li",
+          "date": "2024-08-16"
+        },
+        {
+          "rating": 5.0,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Mohamed",
+          "date": "2025-08-16"
+        },
+        {
+          "rating": 4.1,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Alex",
+          "date": "2024-01-12"
+        },
+        {
+          "rating": 4.9,
+          "review": "Great for photography and sightseeing.",
+          "user": "Maya",
+          "date": "2023-07-28"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1565,
+        "min_price_usd": 882,
+        "max_price_usd": 3896
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–June"
+      },
+      "rating": 4.42,
+      "review_count": 5
+    },
+    {
+      "id": 81,
+      "name": "St. Petersburg Canals",
+      "country": "Russia",
+      "continent": "Europe/Asia",
+      "city": "Saint Petersburg",
+      "annual_visitors": 1769837,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "St. Petersburg Canals is a famous attraction located in Saint Petersburg, Russia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        50,
+        59,
+        58,
+        18,
+        21
+      ],
+      "reviews": [
+        {
+          "rating": 3.6,
+          "review": "Great for photography and sightseeing.",
+          "user": "John",
+          "date": "2024-04-11"
+        },
+        {
+          "rating": 4.0,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Li",
+          "date": "2025-08-14"
+        },
+        {
+          "rating": 3.8,
+          "review": "Amazing place, highly recommended!",
+          "user": "Mohamed",
+          "date": "2024-09-01"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1733,
+        "min_price_usd": 719,
+        "max_price_usd": 3823
+      },
+      "extra_info": {},
+      "rating": 3.8,
+      "review_count": 3
+    },
+    {
+      "id": 82,
+      "name": "Kremlin",
+      "country": "Russia",
+      "continent": "Europe/Asia",
+      "city": "Moscow",
+      "annual_visitors": 4705948,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Kremlin is a famous attraction located in Moscow, Russia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        57,
+        41,
+        53,
+        5,
+        25
+      ],
+      "reviews": [
+        {
+          "rating": 4.1,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Maya",
+          "date": "2024-10-25"
+        },
+        {
+          "rating": 4.9,
+          "review": "One of the top places I've visited.",
+          "user": "Li",
+          "date": "2024-02-06"
+        },
+        {
+          "rating": 4.6,
+          "review": "One of the top places I've visited.",
+          "user": "Anna",
+          "date": "2025-11-03"
+        },
+        {
+          "rating": 4.4,
+          "review": "One of the top places I've visited.",
+          "user": "Fatima",
+          "date": "2024-02-17"
+        },
+        {
+          "rating": 4.2,
+          "review": "Great for photography and sightseeing.",
+          "user": "Carlos",
+          "date": "2024-10-28"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1413,
+        "min_price_usd": 637,
+        "max_price_usd": 3017
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–June"
+      },
+      "rating": 4.44,
+      "review_count": 5
+    },
+    {
+      "id": 83,
+      "name": "Mount Rainier",
+      "country": "United States",
+      "continent": "North America",
+      "city": "Washington",
+      "annual_visitors": 37892167,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Mount Rainier is a famous attraction located in Washington, United States. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        11,
+        38,
+        16,
+        47,
+        57
+      ],
+      "reviews": [
+        {
+          "rating": 3.6,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Alex",
+          "date": "2024-03-16"
+        },
+        {
+          "rating": 4.5,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Alex",
+          "date": "2025-05-22"
+        },
+        {
+          "rating": 4.8,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Anna",
+          "date": "2025-06-15"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1542,
+        "min_price_usd": 941,
+        "max_price_usd": 3362
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–June",
+        "recommended_visit_duration_hours": 4
+      },
+      "rating": 4.3,
+      "review_count": 3
+    },
+    {
+      "id": 84,
+      "name": "Seoraksan National Park",
+      "country": "South Korea",
+      "continent": "Asia",
+      "city": "Gangwon",
+      "annual_visitors": 4909138,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Seoraksan National Park is a famous attraction located in Gangwon, South Korea. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        49,
+        1,
+        55
+      ],
+      "reviews": [
+        {
+          "rating": 4.4,
+          "review": "One of the top places I've visited.",
+          "user": "Tom",
+          "date": "2025-04-07"
+        },
+        {
+          "rating": 4.5,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Maya",
+          "date": "2024-12-14"
+        },
+        {
+          "rating": 4.9,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Maya",
+          "date": "2025-02-12"
+        },
+        {
+          "rating": 4.2,
+          "review": "Great for photography and sightseeing.",
+          "user": "Maya",
+          "date": "2024-11-10"
+        },
+        {
+          "rating": 4.9,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Sara",
+          "date": "2024-03-28"
+        },
+        {
+          "rating": 4.9,
+          "review": "Great for photography and sightseeing.",
+          "user": "Fatima",
+          "date": "2025-02-20"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1097,
+        "min_price_usd": 521,
+        "max_price_usd": 1824
+      },
+      "extra_info": {
+        "best_time_to_visit": "May–September",
+        "recommended_visit_duration_hours": 6
+      },
+      "rating": 4.63,
+      "review_count": 6
+    },
+    {
+      "id": 85,
+      "name": "Gyeongbokgung Palace",
+      "country": "South Korea",
+      "continent": "Asia",
+      "city": "Seoul",
+      "annual_visitors": 13803126,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Gyeongbokgung Palace is a famous attraction located in Seoul, South Korea. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        22,
+        45,
+        16,
+        14,
+        3
+      ],
+      "reviews": [
+        {
+          "rating": 3.7,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Tom",
+          "date": "2023-06-26"
+        },
+        {
+          "rating": 4.7,
+          "review": "One of the top places I've visited.",
+          "user": "Anna",
+          "date": "2023-12-10"
+        },
+        {
+          "rating": 3.7,
+          "review": "One of the top places I've visited.",
+          "user": "Tom",
+          "date": "2023-10-13"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 919,
+        "min_price_usd": 494,
+        "max_price_usd": 2105
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–October"
+      },
+      "rating": 4.03,
+      "review_count": 3
+    },
+    {
+      "id": 86,
+      "name": "Jeju Island",
+      "country": "South Korea",
+      "continent": "Asia",
+      "city": "Jeju",
+      "annual_visitors": 10792917,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Jeju Island is a famous attraction located in Jeju, South Korea. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        26,
+        8,
+        49,
+        44,
+        20,
+        47
+      ],
+      "reviews": [
+        {
+          "rating": 4.1,
+          "review": "Great for photography and sightseeing.",
+          "user": "Maya",
+          "date": "2023-10-05"
+        },
+        {
+          "rating": 4.1,
+          "review": "One of the top places I've visited.",
+          "user": "Sara",
+          "date": "2023-10-17"
+        },
+        {
+          "rating": 4.4,
+          "review": "Amazing place, highly recommended!",
+          "user": "Tom",
+          "date": "2025-07-30"
+        },
+        {
+          "rating": 3.8,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Maya",
+          "date": "2025-10-27"
+        },
+        {
+          "rating": 5.0,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Alex",
+          "date": "2023-09-25"
+        },
+        {
+          "rating": 4.0,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Anna",
+          "date": "2024-08-06"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1233,
+        "min_price_usd": 592,
+        "max_price_usd": 2997
+      },
+      "extra_info": {},
+      "rating": 4.23,
+      "review_count": 6
+    },
+    {
+      "id": 87,
+      "name": "Lake Baikal",
+      "country": "Russia",
+      "continent": "Asia",
+      "city": "Siberia",
+      "annual_visitors": 9058110,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Lake Baikal is a famous attraction located in Siberia, Russia. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        44,
+        22,
+        35,
+        13,
+        33,
+        29
+      ],
+      "reviews": [
+        {
+          "rating": 4.6,
+          "review": "Not what I expected but still good.",
+          "user": "Alex",
+          "date": "2023-08-29"
+        },
+        {
+          "rating": 4.6,
+          "review": "Amazing place, highly recommended!",
+          "user": "John",
+          "date": "2023-08-06"
+        },
+        {
+          "rating": 4.4,
+          "review": "One of the top places I've visited.",
+          "user": "Fatima",
+          "date": "2024-06-27"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1017,
+        "min_price_usd": 600,
+        "max_price_usd": 2113
+      },
+      "extra_info": {
+        "best_time_to_visit": "November–March"
+      },
+      "rating": 4.53,
+      "review_count": 3
+    },
+    {
+      "id": 88,
+      "name": "Ephesus Ruins",
+      "country": "Turkey",
+      "continent": "Asia",
+      "city": "Selçuk",
+      "annual_visitors": 12098805,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Ephesus Ruins is a famous attraction located in Selçuk, Turkey. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        25,
+        7,
+        23,
+        53,
+        12
+      ],
+      "reviews": [
+        {
+          "rating": 4.4,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Sara",
+          "date": "2024-01-29"
+        },
+        {
+          "rating": 4.4,
+          "review": "Great for photography and sightseeing.",
+          "user": "Alex",
+          "date": "2024-09-11"
+        },
+        {
+          "rating": 4.7,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Alex",
+          "date": "2025-05-18"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1185,
+        "min_price_usd": 739,
+        "max_price_usd": 2021
+      },
+      "extra_info": {
+        "best_time_to_visit": "September–October"
+      },
+      "rating": 4.5,
+      "review_count": 3
+    },
+    {
+      "id": 89,
+      "name": "Svalbard (Northern Lights)",
+      "country": "Norway",
+      "continent": "Europe",
+      "city": "Svalbard",
+      "annual_visitors": 6789888,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Svalbard (Northern Lights) is a famous attraction located in Svalbard, Norway. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        58,
+        8,
+        26,
+        21,
+        17,
+        18
+      ],
+      "reviews": [
+        {
+          "rating": 4.6,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Tom",
+          "date": "2025-04-30"
+        },
+        {
+          "rating": 4.4,
+          "review": "Amazing place, highly recommended!",
+          "user": "Mohamed",
+          "date": "2025-03-28"
+        },
+        {
+          "rating": 3.9,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Mohamed",
+          "date": "2024-02-07"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1435,
+        "min_price_usd": 847,
+        "max_price_usd": 2958
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 8
+      },
+      "rating": 4.3,
+      "review_count": 3
+    },
+    {
+      "id": 90,
+      "name": "Guanajuato",
+      "country": "Mexico",
+      "continent": "North America",
+      "city": "Guanajuato",
+      "annual_visitors": 28933688,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Guanajuato is a famous attraction located in Guanajuato, Mexico. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        40,
+        50,
+        10
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Tom",
+          "date": "2023-09-04"
+        },
+        {
+          "rating": 3.7,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Li",
+          "date": "2024-01-11"
+        },
+        {
+          "rating": 3.7,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Anna",
+          "date": "2025-10-13"
+        },
+        {
+          "rating": 4.6,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Mohamed",
+          "date": "2024-06-19"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1211,
+        "min_price_usd": 606,
+        "max_price_usd": 2767
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 8
+      },
+      "rating": 4.22,
+      "review_count": 4
+    },
+    {
+      "id": 91,
+      "name": "Teotihuacan",
+      "country": "Mexico",
+      "continent": "North America",
+      "city": "Teotihuacan",
+      "annual_visitors": 22969514,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Teotihuacan is a famous attraction located in Teotihuacan, Mexico. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        47,
+        49,
+        25
+      ],
+      "reviews": [
+        {
+          "rating": 4.4,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Sara",
+          "date": "2025-10-16"
+        },
+        {
+          "rating": 4.1,
+          "review": "Great for photography and sightseeing.",
+          "user": "Mohamed",
+          "date": "2023-12-15"
+        },
+        {
+          "rating": 4.8,
+          "review": "One of the top places I've visited.",
+          "user": "Anna",
+          "date": "2023-11-16"
+        },
+        {
+          "rating": 4.7,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Fatima",
+          "date": "2024-12-09"
+        },
+        {
+          "rating": 4.9,
+          "review": "One of the top places I've visited.",
+          "user": "Fatima",
+          "date": "2023-12-04"
+        },
+        {
+          "rating": 4.4,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Li",
+          "date": "2023-12-21"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1365,
+        "min_price_usd": 789,
+        "max_price_usd": 3017
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 1
+      },
+      "rating": 4.55,
+      "review_count": 6
+    },
+    {
+      "id": 92,
+      "name": "Mahabodhi Temple",
+      "country": "India",
+      "continent": "Asia",
+      "city": "Bodh Gaya",
+      "annual_visitors": 11438988,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Mahabodhi Temple is a famous attraction located in Bodh Gaya, India. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        43,
+        18,
+        33
+      ],
+      "reviews": [
+        {
+          "rating": 5.0,
+          "review": "Great for photography and sightseeing.",
+          "user": "Tom",
+          "date": "2024-08-19"
+        },
+        {
+          "rating": 4.2,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Tom",
+          "date": "2025-07-26"
+        },
+        {
+          "rating": 4.0,
+          "review": "One of the top places I've visited.",
+          "user": "Maya",
+          "date": "2024-02-05"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1182,
+        "min_price_usd": 668,
+        "max_price_usd": 1994
+      },
+      "extra_info": {
+        "best_time_to_visit": "April–October",
+        "recommended_visit_duration_hours": 4
+      },
+      "rating": 4.4,
+      "review_count": 3
+    },
+    {
+      "id": 93,
+      "name": "Himeji Castle",
+      "country": "Japan",
+      "continent": "Asia",
+      "city": "Himeji",
+      "annual_visitors": 8020330,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Himeji Castle is a famous attraction located in Himeji, Japan. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        21,
+        46,
+        51,
+        24,
+        14,
+        53
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "review": "One of the top places I've visited.",
+          "user": "Carlos",
+          "date": "2025-10-03"
+        },
+        {
+          "rating": 4.5,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Tom",
+          "date": "2024-06-20"
+        },
+        {
+          "rating": 3.6,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Anna",
+          "date": "2023-08-01"
+        },
+        {
+          "rating": 4.3,
+          "review": "Worth the trip, beautiful views.",
+          "user": "Anna",
+          "date": "2024-03-23"
+        },
+        {
+          "rating": 4.9,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Sara",
+          "date": "2025-10-22"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 979,
+        "min_price_usd": 675,
+        "max_price_usd": 1693
+      },
+      "extra_info": {
+        "best_time_to_visit": "November–March",
+        "recommended_visit_duration_hours": 3
+      },
+      "rating": 4.44,
+      "review_count": 5
+    },
+    {
+      "id": 94,
+      "name": "Santiago de Compostela",
+      "country": "Spain",
+      "continent": "Europe",
+      "city": "Santiago",
+      "annual_visitors": 2135370,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Santiago de Compostela is a famous attraction located in Santiago, Spain. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        43,
+        13,
+        9
+      ],
+      "reviews": [
+        {
+          "rating": 4.4,
+          "review": "Amazing place, highly recommended!",
+          "user": "Maya",
+          "date": "2023-07-08"
+        },
+        {
+          "rating": 4.8,
+          "review": "Amazing place, highly recommended!",
+          "user": "Fatima",
+          "date": "2024-09-10"
+        },
+        {
+          "rating": 3.7,
+          "review": "Great for photography and sightseeing.",
+          "user": "Alex",
+          "date": "2025-04-25"
+        },
+        {
+          "rating": 5.0,
+          "review": "One of the top places I've visited.",
+          "user": "Tom",
+          "date": "2025-02-17"
+        },
+        {
+          "rating": 4.8,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Anna",
+          "date": "2024-02-01"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1599,
+        "min_price_usd": 795,
+        "max_price_usd": 2628
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 2
+      },
+      "rating": 4.54,
+      "review_count": 5
+    },
+    {
+      "id": 95,
+      "name": "Alhambra",
+      "country": "Spain",
+      "continent": "Europe",
+      "city": "Granada",
+      "annual_visitors": 5443588,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Alhambra is a famous attraction located in Granada, Spain. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        54,
+        22,
+        39
+      ],
+      "reviews": [
+        {
+          "rating": 5.0,
+          "review": "Not what I expected but still good.",
+          "user": "Alex",
+          "date": "2023-08-20"
+        },
+        {
+          "rating": 3.9,
+          "review": "Great for photography and sightseeing.",
+          "user": "Carlos",
+          "date": "2024-02-29"
+        },
+        {
+          "rating": 3.8,
+          "review": "One of the top places I've visited.",
+          "user": "Tom",
+          "date": "2025-06-19"
+        },
+        {
+          "rating": 3.6,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Fatima",
+          "date": "2024-09-03"
+        },
+        {
+          "rating": 4.5,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Anna",
+          "date": "2025-10-14"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1304,
+        "min_price_usd": 798,
+        "max_price_usd": 2247
+      },
+      "extra_info": {
+        "recommended_visit_duration_hours": 8
+      },
+      "rating": 4.16,
+      "review_count": 5
+    },
+    {
+      "id": 96,
+      "name": "Kilimanjaro National Park",
+      "country": "Tanzania",
+      "continent": "Africa",
+      "city": "Kilimanjaro",
+      "annual_visitors": 3179891,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Kilimanjaro National Park is a famous attraction located in Kilimanjaro, Tanzania. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        37,
+        10,
+        35
+      ],
+      "reviews": [
+        {
+          "rating": 4.4,
+          "review": "Worth the trip, beautiful views.",
+          "user": "John",
+          "date": "2024-11-23"
+        },
+        {
+          "rating": 4.5,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Li",
+          "date": "2024-09-23"
+        },
+        {
+          "rating": 4.0,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Anna",
+          "date": "2023-09-04"
+        },
+        {
+          "rating": 3.8,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Alex",
+          "date": "2024-08-25"
+        },
+        {
+          "rating": 4.3,
+          "review": "Loved the guided tour, learned a lot.",
+          "user": "Sara",
+          "date": "2025-09-22"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1524,
+        "min_price_usd": 847,
+        "max_price_usd": 2537
+      },
+      "extra_info": {
+        "best_time_to_visit": "September–October",
+        "recommended_visit_duration_hours": 6
+      },
+      "rating": 4.2,
+      "review_count": 5
+    },
+    {
+      "id": 97,
+      "name": "Okavango Delta",
+      "country": "Botswana",
+      "continent": "Africa",
+      "city": "Okavango",
+      "annual_visitors": 7794588,
+      "image_url": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEdyYW5kJTIwQ2FueW9ufGVufDB8fDB8fHww",
+      "description": "Okavango Delta is a famous attraction located in Okavango, Botswana. It's known for its cultural, historical or natural significance and attracts travelers worldwide.",
+      "activities": [
+        20,
+        9,
+        21,
+        58,
+        3,
+        29
+      ],
+      "reviews": [
+        {
+          "rating": 4.7,
+          "review": "Great for photography and sightseeing.",
+          "user": "Fatima",
+          "date": "2023-09-01"
+        },
+        {
+          "rating": 5.0,
+          "review": "A bit expensive but the experience is unique.",
+          "user": "Sara",
+          "date": "2023-08-11"
+        },
+        {
+          "rating": 3.7,
+          "review": "Crowded but unforgettable experience.",
+          "user": "Carlos",
+          "date": "2024-04-15"
+        },
+        {
+          "rating": 3.6,
+          "review": "One of the top places I've visited.",
+          "user": "Carlos",
+          "date": "2024-11-18"
+        },
+        {
+          "rating": 3.7,
+          "review": "One of the top places I've visited.",
+          "user": "Sara",
+          "date": "2025-08-05"
+        }
+      ],
+      "trip_prices": {
+        "average_price_usd": 1204,
+        "min_price_usd": 766,
+        "max_price_usd": 2143
+      },
+      "extra_info": {
+        "best_time_to_visit": "Year-round"
+      },
+      "rating": 4.14,
+      "review_count": 5
+    }
+  ],
+  "activities": [
+    {
+      "id": 1,
+      "activity": "Sightseeing"
+    },
+    {
+      "id": 2,
+      "activity": "Photography"
+    },
+    {
+      "id": 3,
+      "activity": "Guided Tours"
+    },
+    {
+      "id": 4,
+      "activity": "Hiking"
+    },
+    {
+      "id": 5,
+      "activity": "Boat Tours"
+    },
+    {
+      "id": 6,
+      "activity": "Beach Visits"
+    },
+    {
+      "id": 7,
+      "activity": "Museum Visit"
+    },
+    {
+      "id": 8,
+      "activity": "Wildlife Safari"
+    },
+    {
+      "id": 9,
+      "activity": "Scuba Diving"
+    },
+    {
+      "id": 10,
+      "activity": "Snorkeling"
+    },
+    {
+      "id": 11,
+      "activity": "Dining"
+    },
+    {
+      "id": 12,
+      "activity": "Shopping"
+    },
+    {
+      "id": 13,
+      "activity": "Cultural Shows"
+    },
+    {
+      "id": 14,
+      "activity": "Nightlife"
+    },
+    {
+      "id": 15,
+      "activity": "Cycling"
+    },
+    {
+      "id": 16,
+      "activity": "Camel Riding"
+    },
+    {
+      "id": 17,
+      "activity": "Hot Air Balloon"
+    },
+    {
+      "id": 18,
+      "activity": "Skiing"
+    },
+    {
+      "id": 19,
+      "activity": "Snowboarding"
+    },
+    {
+      "id": 20,
+      "activity": "Relaxation/Spa"
+    },
+    {
+      "id": 21,
+      "activity": "Rail Tours"
+    },
+    {
+      "id": 22,
+      "activity": "Road Trips"
+    },
+    {
+      "id": 23,
+      "activity": "Zip Lining"
+    },
+    {
+      "id": 24,
+      "activity": "Paragliding"
+    },
+    {
+      "id": 25,
+      "activity": "Rock Climbing"
+    },
+    {
+      "id": 26,
+      "activity": "Historical Walk"
+    },
+    {
+      "id": 27,
+      "activity": "Pilgrimage"
+    },
+    {
+      "id": 28,
+      "activity": "Camping"
+    },
+    {
+      "id": 29,
+      "activity": "Kayaking"
+    },
+    {
+      "id": 30,
+      "activity": "Fishing"
+    },
+    {
+      "id": 31,
+      "activity": "Surfing"
+    },
+    {
+      "id": 32,
+      "activity": "Diving with Sharks"
+    },
+    {
+      "id": 33,
+      "activity": "Observation Deck"
+    },
+    {
+      "id": 34,
+      "activity": "Zipline"
+    },
+    {
+      "id": 35,
+      "activity": "City Tours"
+    },
+    {
+      "id": 36,
+      "activity": "Food Tours"
+    },
+    {
+      "id": 37,
+      "activity": "Wine Tasting"
+    },
+    {
+      "id": 38,
+      "activity": "Helicopter Tours"
+    },
+    {
+      "id": 39,
+      "activity": "Sunset Watching"
+    },
+    {
+      "id": 40,
+      "activity": "Temple Visits"
+    },
+    {
+      "id": 41,
+      "activity": "Architecture Tours"
+    },
+    {
+      "id": 42,
+      "activity": "Painting Classes"
+    },
+    {
+      "id": 43,
+      "activity": "Cooking Classes"
+    },
+    {
+      "id": 44,
+      "activity": "Train Rides"
+    },
+    {
+      "id": 45,
+      "activity": "Botanical Gardens"
+    },
+    {
+      "id": 46,
+      "activity": "Hot Springs"
+    },
+    {
+      "id": 47,
+      "activity": "Lighthouse Visit"
+    },
+    {
+      "id": 48,
+      "activity": "Horse Riding"
+    },
+    {
+      "id": 49,
+      "activity": "Cave Exploration"
+    },
+    {
+      "id": 50,
+      "activity": "Stargazing"
+    },
+    {
+      "id": 51,
+      "activity": "Northern Lights Viewing"
+    },
+    {
+      "id": 52,
+      "activity": "River Cruise"
+    },
+    {
+      "id": 53,
+      "activity": "Canopy Walk"
+    },
+    {
+      "id": 54,
+      "activity": "Bird Watching"
+    },
+    {
+      "id": 55,
+      "activity": "Eco Tours"
+    },
+    {
+      "id": 56,
+      "activity": "Boat Cruise"
+    },
+    {
+      "id": 57,
+      "activity": "Island Hopping"
+    },
+    {
+      "id": 58,
+      "activity": "Local Markets"
+    },
+    {
+      "id": 59,
+      "activity": "Art Galleries"
+    },
+    {
+      "id": 60,
+      "activity": "Performing Arts"
+    }
+  ],
+  "countries": [
+    {
+      "name": "France",
+      "continent": "Europe"
+    },
+    {
+      "name": "Italy",
+      "continent": "Europe"
+    },
+    {
+      "name": "Vatican City",
+      "continent": "Europe"
+    },
+    {
+      "name": "Spain",
+      "continent": "Europe"
+    },
+    {
+      "name": "United Kingdom",
+      "continent": "Europe"
+    },
+    {
+      "name": "Greece",
+      "continent": "Europe"
+    },
+    {
+      "name": "Germany",
+      "continent": "Europe"
+    },
+    {
+      "name": "United States",
+      "continent": "North America"
+    },
+    {
+      "name": "Canada",
+      "continent": "North America"
+    },
+    {
+      "name": "Mexico",
+      "continent": "North America"
+    },
+    {
+      "name": "Peru",
+      "continent": "South America"
+    },
+    {
+      "name": "Brazil",
+      "continent": "South America"
+    },
+    {
+      "name": "Argentina/Brazil",
+      "continent": "South America"
+    },
+    {
+      "name": "Ecuador",
+      "continent": "South America"
+    },
+    {
+      "name": "Chile",
+      "continent": "South America"
+    },
+    {
+      "name": "China",
+      "continent": "Asia"
+    },
+    {
+      "name": "India",
+      "continent": "Asia"
+    },
+    {
+      "name": "Cambodia",
+      "continent": "Asia"
+    },
+    {
+      "name": "Indonesia",
+      "continent": "Asia"
+    },
+    {
+      "name": "Japan",
+      "continent": "Asia"
+    },
+    {
+      "name": "Vietnam",
+      "continent": "Asia"
+    },
+    {
+      "name": "Jordan",
+      "continent": "Asia"
+    },
+    {
+      "name": "Jordan/Israel",
+      "continent": "Asia"
+    },
+    {
+      "name": "United Arab Emirates",
+      "continent": "Asia"
+    },
+    {
+      "name": "UAE",
+      "continent": "Asia"
+    },
+    {
+      "name": "Egypt",
+      "continent": "Africa"
+    },
+    {
+      "name": "South Africa",
+      "continent": "Africa"
+    },
+    {
+      "name": "Tanzania",
+      "continent": "Africa"
+    },
+    {
+      "name": "Morocco",
+      "continent": "Africa"
+    },
+    {
+      "name": "Czech Republic",
+      "continent": "Europe"
+    },
+    {
+      "name": "Croatia",
+      "continent": "Europe"
+    },
+    {
+      "name": "Switzerland",
+      "continent": "Europe"
+    },
+    {
+      "name": "Nepal",
+      "continent": "Asia"
+    },
+    {
+      "name": "China/Tibet",
+      "continent": "Asia"
+    },
+    {
+      "name": "Myanmar",
+      "continent": "Asia"
+    },
+    {
+      "name": "Colombia",
+      "continent": "South America"
+    },
+    {
+      "name": "Australia",
+      "continent": "Oceania"
+    },
+    {
+      "name": "New Zealand",
+      "continent": "Oceania"
+    },
+    {
+      "name": "French Polynesia",
+      "continent": "Oceania"
+    },
+    {
+      "name": "Turkey",
+      "continent": "Europe/Asia"
+    },
+    {
+      "name": "Latvia",
+      "continent": "Europe"
+    },
+    {
+      "name": "Russia",
+      "continent": "Europe/Asia"
+    },
+    {
+      "name": "South Korea",
+      "continent": "Asia"
+    },
+    {
+      "name": "Norway",
+      "continent": "Europe"
+    },
+    {
+      "name": "Botswana",
+      "continent": "Africa"
+    }
+  ],
+  "continents": [
+    "Africa",
+    "Asia",
+    "Europe",
+    "North America",
+    "South America",
+    "Oceania",
+    "Antarctica"
+  ]
+}

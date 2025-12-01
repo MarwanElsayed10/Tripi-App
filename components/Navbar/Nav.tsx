@@ -25,7 +25,7 @@ export default function Nav({ openNav }: Props) {
         <div className={` ${bgNav ? "bg-blue-950 shadow-2xl" : "fixed"} fixed w-full h-[12vh] transition-all duration-200 z-100`}>
             <div className="flex items-center justify-between h-full w-[95%] xl:w-[85%] mx-auto">
                 {/* Logo */}
-                <div className="flex items-center space-x-2 cursor-pointer hover:scale-110 transition-transform duration-300">
+                <div onClick={()=>{window.location.reload()}} className="flex items-center space-x-2 cursor-pointer hover:scale-110 transition-transform duration-300">
                     <div className="flex items-center justify-center flex-col w-10 h-10 rounded-full bg-rose-500">
                         <TbAirBalloon className="w-6 h-6 text-white" />
                     </div>
@@ -49,9 +49,11 @@ export default function Nav({ openNav }: Props) {
 
                 {/* Button */}
                 <div className="flex items-center space-x-4 ">
-                    <button className="md:px-10 md:py-2.5 px-8 py-2 text-white font-medium text-base hover:scale-110 bg-rose-500 hover:bg-rose-600 transition-all duration-200 rounded-lg cursor-pointer">
-                        Book Now
-                    </button>
+                    <Link href="#news-letter">
+                        <button  className="md:px-10 md:py-2.5 px-8 py-2 text-white font-medium text-base hover:scale-110 bg-rose-500 hover:bg-rose-600 transition-all duration-200 rounded-lg cursor-pointer">
+                            Book Now
+                        </button>
+                    </Link>
                 </div>
 
                 {/* Burger Menu */}

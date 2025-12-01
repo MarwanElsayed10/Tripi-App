@@ -2,7 +2,7 @@ import Home from "@/components/Home/Home"
 
 function HomePage() {
   return (
-    <div className="text-6xl">
+    <div>
       <Home/>
     </div>
   )

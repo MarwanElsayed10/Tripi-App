@@ -1,4 +1,7 @@
 @import "tailwindcss";
+:root{
+  scroll-behavior: smooth;
+}
 
 .autoplay-progress {
   position: absolute;
@@ -28,4 +31,37 @@
   stroke-dashoffset: calc(125.6px * (1 - var(--progress)));
   stroke-dasharray: 125.6;
   transform: rotate(-90deg);
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+.spinner {
+  width: 50px;
+  height: 50px;
+  border: 4px solid #ccc;
+  border-top-color: #ff2056;
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@layer utilities {
+  .animate-fadeIn {
+    animation: fadeIn 1s ease-in-out;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: scale(.60); }
+    to { opacity: 1; transform: scale(1); }
+  }
 }

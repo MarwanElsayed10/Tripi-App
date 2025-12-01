@@ -36,11 +36,6 @@ interface DataItem {
   review_count:number;
 }
 
-interface DataActivity{
-  id: number;
-  activity: string;
-}
-
 interface DataTourData{
   id: number;
   image: string;
@@ -65,7 +60,6 @@ interface DataHotels{
 
 interface DataContextType {
   place: Array<DataItem>;
-  activities: Array<DataActivity>;
   tourData: Array<DataTourData>;
   hotelData: Array<DataHotels>;
 }
@@ -74,23 +68,22 @@ const DataContext = createContext<DataContextType | undefined>(undefined);
 
 export const DataProvider = ({ children }: { children: ReactNode }) => {
     const [place, setPlace] = useState<Array<DataItem>>([]);
-    const [activities, setActivities] = useState<Array<DataActivity>>([]);
     const [tourData , setTourData] = useState<Array<DataTourData>>([])
     const [hotelData , setHotelData] = useState<Array<DataHotels>>([])
     
+    
     useEffect(() => {
-        fetch("https://raw.githubusercontent.com/MarwanElsayed10/Tripi-App/refs/heads/main/tourism_dataset_100_realistic.json")
+        fetch("https://raw.githubusercontent.com/MarwanElsayed10/Tripi-App/refs/heads/main/public/data/tourism_dataset_100_realistic%20(2).json")
         .then(res => res.json())
         .then(data => {
             setPlace(data.places)
-            setActivities(data.activities)
             setTourData(data.tourData)
             setHotelData(data.hotels)
             console.log(data)
         });
 }, []);
   return (
-    <DataContext.Provider value={{ place, activities , tourData , hotelData }}>
+    <DataContext.Provider value={{ place , tourData , hotelData }}>
       {children}
     </DataContext.Provider>
   );

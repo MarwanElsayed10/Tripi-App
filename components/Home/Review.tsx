@@ -6,7 +6,7 @@ const Review = () => {
     <div className="pt-20 pb-20 flex items-center justify-center flex-col bg-[#13357b]">
       <div className="w-[85%] mx-auto grid items-center grid-cols-1 lg:grid-cols-2 gap-10">
         {/* text content */}
-        <div>
+        <div data-aos="fade-right" data-aos-anchor-placement="top-center" data-aos-duration="1300">
             <h1 className="text-2xl font-semibold text-white text-center">
                 What our customers are saying about us ?
             </h1>

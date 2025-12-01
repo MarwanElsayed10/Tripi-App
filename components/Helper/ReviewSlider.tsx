@@ -28,8 +28,8 @@ const ReviewSlider = () => {
   }};
 
   return (
-    <div>
-      <Swiper effect={'cards'} autoplay={{delay:10000}} pagination={{clickable: true,}}navigation={true} loop={true} grabCursor={true} modules={[EffectCards ,Autoplay]} onAutoplayTimeLeft={onAutoplayTimeLeft} className='md:w-[360px] md:h-[350px] w-[90%] h-[300px]'>
+    <div data-aos="fade-left" data-aos-anchor-placement="top-center" data-aos-delay="1800" data-aos-duration="1300">
+      <Swiper effect={'cards'} autoplay={{delay:10000}} pagination={{clickable: true,}}navigation={true}  grabCursor={true} modules={[EffectCards ,Autoplay]} onAutoplayTimeLeft={onAutoplayTimeLeft} className='md:w-[360px] md:h-[350px] w-[90%] h-[300px]'>
         {reviewData.map((review)=> {
             return (
                 <SwiperSlide key={review.id} className='bg-white rounded-3xl block'>

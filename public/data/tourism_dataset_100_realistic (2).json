@@ -68,7 +68,7 @@
   },
   {
     "id": 7,
-    "image": "https://images.unsplash.com/photo-1526481280695-3c720685208b?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1645443545274-2f79770772bc?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Northern Lights Arctic Viewing Experience",
     "location": "Tromsø, Norway",
     "time": "6 hours",
@@ -79,7 +79,7 @@
   },
   {
     "id": 8,
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1543716091-a840c05249ec?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "New York City Full-Day Landmarks Tour",
     "location": "New York, USA",
     "time": "9 hours",
@@ -90,7 +90,7 @@
   },
   {
     "id": 9,
-    "image": "https://images.unsplash.com/photo-1543352634-093a3509f5c4?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1681829496174-e9b03398a0a9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Safari Adventure at Kruger National Park",
     "location": "South Africa",
     "time": "10 hours",
@@ -101,7 +101,7 @@
   },
   {
     "id": 10,
-    "image": "https://images.unsplash.com/photo-1595920326176-027a03f8cccf?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1726016774905-22539acc3b91?q=80&w=812&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Mount Fuji Day Trip + Lake Kawaguchi",
     "location": "Tokyo, Japan",
     "time": "12 hours",
@@ -112,7 +112,7 @@
   },
   {
     "id": 11,
-    "image": "https://images.unsplash.com/photo-1551732607-7263244a36a5?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://plus.unsplash.com/premium_photo-1738092339941-5e4b32c9e9a5?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Snorkeling with Turtles in Blue Lagoon",
     "location": "Bali, Indonesia",
     "time": "5 hours",
@@ -123,7 +123,7 @@
   },
   {
     "id": 12,
-    "image": "https://images.unsplash.com/photo-1603546133137-5dc50b0c035b?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1663770826502-c6221c9d8d09?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Luxor Pyramids, Sphinx & Nile Cruise",
     "location": "Giza, Egypt",
     "time": "10 hours",
@@ -134,7 +134,7 @@
   },
   {
     "id": 13,
-    "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1622073492812-ed21d3443390?q=80&w=682&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Full-Day Safari at Serengeti Park",
     "location": "Tanzania",
     "time": "14 hours",
@@ -145,7 +145,7 @@
   },
   {
     "id": 14,
-    "image": "https://images.unsplash.com/photo-1543248939-ff40856f65c3?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1565532620068-276d0fdcd77c?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Santorini Sunset Boat Tour",
     "location": "Santorini, Greece",
     "time": "4 hours",
@@ -156,7 +156,7 @@
   },
   {
     "id": 15,
-    "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1641038321852-bc96d970e2e5?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Historic Castles of Scotland Guided Tour",
     "location": "Edinburgh, Scotland",
     "time": "9 hours",
@@ -167,7 +167,7 @@
   },
   {
     "id": 16,
-    "image": "https://images.unsplash.com/photo-1587731541223-4320a8b3f182?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://plus.unsplash.com/premium_photo-1664298243145-f71820d7eae3?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Hot Air Balloon Ride over Cappadocia",
     "location": "Cappadocia, Turkey",
     "time": "3 hours",
@@ -178,7 +178,7 @@
   },
   {
     "id": 17,
-    "image": "https://images.unsplash.com/photo-1544986581-efac024faf62?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://unsplash.com/photos/a-bench-on-a-dock-DT1IHnGu3dQ",
     "title": "Skydeck + Architecture River Cruise",
     "location": "Chicago, USA",
     "time": "2 hours",
@@ -189,7 +189,7 @@
   },
   {
     "id": 18,
-    "image": "https://images.unsplash.com/photo-1524594161823-1e303d0176a3?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1763535544047-dbd8244b87a5?q=80&w=869&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Safari Jeep Tour in Dubai Desert",
     "location": "Dubai, UAE",
     "time": "4 hours",
@@ -200,7 +200,7 @@
   },
   {
     "id": 19,
-    "image": "https://images.unsplash.com/photo-1519817650390-64a93db511aa?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1715529137314-eddb65d1fcb1?q=80&w=466&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Rio Christ the Redeemer Guided Visit",
     "location": "Rio de Janeiro, Brazil",
     "time": "3 hours",
@@ -211,7 +211,7 @@
   },
   {
     "id": 20,
-    "image": "https://images.unsplash.com/photo-1524492449094-1a7a913e06b3?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1595203633549-4a1d35055e44?q=80&w=385&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Sydney Blue Mountains Day Adventure",
     "location": "Sydney, Australia",
     "time": "11 hours",
@@ -242,7 +242,7 @@
     },
     {
       "id": 3,
-      "image": "https://images.unsplash.com/photo-1501117716987-c8e1ecb2101b?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://images.unsplash.com/photo-1635184575154-3acdd8a3c9e7?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Marina Bay Executive Suites",
       "location": "Singapore City, Singapore",
       "rating": 4.7,
@@ -251,7 +251,7 @@
     },
     {
       "id": 4,
-      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://images.unsplash.com/photo-1757360015284-76e15da50730?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "New York Empire Hotel",
       "location": "Manhattan, New York",
       "rating": 4.4,
@@ -305,7 +305,7 @@
     },
     {
       "id": 10,
-      "image": "https://images.unsplash.com/photo-1620694563380-5a95d3d2acc6?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://images.unsplash.com/photo-1742676696848-f21fc9a72635?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Los Angeles Sunset Hotel",
       "location": "Hollywood, Los Angeles",
       "rating": 4.3,
@@ -314,7 +314,7 @@
     },
     {
       "id": 11,
-      "image": "https://images.unsplash.com/photo-1551776235-dde6d482980a?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://images.unsplash.com/photo-1572030712991-5d489429598a?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Barcelona Coastline Resort",
       "location": "Barceloneta, Barcelona",
       "rating": 4.6,
@@ -323,7 +323,7 @@
     },
     {
       "id": 12,
-      "image": "https://images.unsplash.com/photo-1519121782843-73ffdf0b77c9?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://plus.unsplash.com/premium_photo-1694475611884-0424c49f2676?q=80&w=389&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Toronto Skyline Grand Hotel",
       "location": "Downtown, Toronto",
       "rating": 4.4,
@@ -332,7 +332,7 @@
     },
     {
       "id": 13,
-      "image": "https://images.unsplash.com/photo-1628771065518-0d82f57a0df5?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://images.unsplash.com/photo-1646558581666-d1aa8d51595d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Q2FwZSUyMFRvd24lMjBPY2VhbmZyb250JTIwUmVzb3J0fGVufDB8fDB8fHww",
       "name": "Cape Town Oceanfront Resort",
       "location": "Sea Point, Cape Town",
       "rating": 4.7,
@@ -350,7 +350,7 @@
     },
     {
       "id": 15,
-      "image": "https://images.unsplash.com/photo-1559599188-f77f8393fceb?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://images.unsplash.com/photo-1742248626657-68e43084f9f0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8SXN0YW5idWwlMjBCb3NwaG9ydXMlMjBIb3RlbHxlbnwwfHwwfHx8MA%3D%3D",
       "name": "Istanbul Bosphorus Hotel",
       "location": "Beşiktaş, Istanbul",
       "rating": 4.5,
@@ -368,7 +368,7 @@
     },
     {
       "id": 17,
-      "image": "https://images.unsplash.com/photo-1542317854-7d98faad6a8a?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://images.unsplash.com/photo-1728309349719-401c584b2024?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Vmllbm5hJTIwSW1wZXJpYWwlMjBHcmFuZCUyMEhvdGVsfGVufDB8fDB8fHww",
       "name": "Vienna Imperial Grand Hotel",
       "location": "Innere Stadt, Vienna",
       "rating": 4.8,
@@ -395,7 +395,7 @@
     },
     {
       "id": 20,
-      "image": "https://images.unsplash.com/photo-1566075271203-7083f93a007a?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://images.unsplash.com/photo-1601999705946-fbf42c3c6c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWFsZGl2ZXMlMjBPdmVyd2F0ZXIlMjBSZXRyZWF0fGVufDB8fDB8fHww",
       "name": "Maldives Overwater Retreat",
       "location": "North Male Atoll, Maldives",
       "rating": 4.9,
@@ -413,7 +413,7 @@
     },
     {
       "id": 22,
-      "image":"https://images.unsplash.com/photo-1702593690392-31edf0331f54?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image":"https://plus.unsplash.com/premium_photo-1754344850064-ddbcf0be4776?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QmFyY2Vsb25hJTIwQ2l0eSUyMFN1aXRlcyUyMERlbHV4ZSUyMEhvdGVsfGVufDB8fDB8fHww",
       "name": "Barcelona City Suites Deluxe Hotel",
       "location": "Ciutat Vella, Barcelona",
       "rating": 4.7,
@@ -422,7 +422,7 @@
     },
     {
       "id": 23,
-      "image": "https://images.unsplash.com/photo-1559599188-f77f8393fceb?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://images.unsplash.com/photo-1622462671024-056d51b16e40?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFRpbWVzJTIwU3F1YXJlJTIwUHJlbWl1bSUyMFN0YXklMjBIb3RlbHxlbnwwfHwwfHx8MA%3D%3D",
       "name": "Times Square Premium Stay Hotel",
       "location": "Manhattan, New York",
       "rating": 4.9,
